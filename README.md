@@ -1,6 +1,6 @@
-# Genetic programming to provide mathematical equation to decouple contributions for ion/perovskite photo-rechargeable battery materials
+# Genetic programming
 
- genetic classification and regression codes for ion battery paper
+  Genetic algorithm codes to provide mathematical equation to decouple contributions for ion/perovskite photo-rechargeable battery materialsgenetic classification and regression codes for ion battery paper
 
 
 # Instructions
