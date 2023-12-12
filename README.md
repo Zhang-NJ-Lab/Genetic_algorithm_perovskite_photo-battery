@@ -11,9 +11,11 @@
 
 _regression task (accuracy unsually low if descriptors quality is low)_
 
+
  symbolic_classification.ipynb     
 
 _classification task (stable or unstable)_
+
 
  genetic_prediction.ipynb          
 
@@ -23,16 +25,19 @@ _predict the expensive virtual space (input feature number should be the same as
 ## Datasets
 
  prediction_withoutLable.csv       
-unlabelled virtual dataset to predict the expensive virtual space (input feature number should be the same as the train/test feature number, and a target name should be provided in the last column first row)
+_unlabelled virtual dataset to predict the expensive virtual space (input feature number should be the same as the train/test feature number, and a target name should be provided in the last column first row)_
+
 
  TrainTest_classification_minus0.1_minus3_Feature_selection.csv       
-train/test dataset for classification 
+_train/test dataset for classification_ 
+
 
  TrainTest.csv    
-train/test dataset for regression
+_train/test dataset for regression_
+
 
  TrainTest-description.xlsx     
-description of the train/test dataset
+_description of the train/test dataset_
 
 
 ## Paper to extract dataset
