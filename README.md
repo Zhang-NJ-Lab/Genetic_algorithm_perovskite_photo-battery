@@ -8,17 +8,14 @@
 ## Follow the three jupyter tutorial files
  
  symbolic_regression.ipynb         
-
 _regression task (accuracy unsually low if descriptors quality is low)_
 
 
  symbolic_classification.ipynb     
-
 _classification task (stable or unstable)_
 
 
  genetic_prediction.ipynb          
-
 _predict the expensive virtual space (input feature number should be the same as the train/test feature number, and a target name should be provided in the last column first row)_
 
 
