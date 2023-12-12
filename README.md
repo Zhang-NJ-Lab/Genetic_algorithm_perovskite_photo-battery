@@ -1,17 +1,23 @@
 # Genetic programming
 
-  Genetic algorithm codes to provide mathematical equation to decouple contributions for ion/perovskite photo-rechargeable battery materialsgenetic classification and regression codes for ion battery paper
+  Genetic algorithm codes to accelerate material property prediction, and provide mathematical equation to decouple contributions for ion/perovskite photo-rechargeable battery materialsgenetic classification and regression codes for ion battery paper
 
 
 # Instructions
 
 ## Follow the three jupyter tutorial files
  
- symbolic_regression.ipynb         regression task (accuracy unsually low if descriptors quality is low)
+ symbolic_regression.ipynb         
 
- symbolic_classification.ipynb     classification task (stable or unstable)
+regression task (accuracy unsually low if descriptors quality is low)
 
- genetic_prediction.ipynb          predict the expensive virtual space (input feature number should be the same as the train/test feature number, and a target name should be provided in the last column first row)
+ symbolic_classification.ipynb     
+
+classification task (stable or unstable)
+
+ genetic_prediction.ipynb          
+
+predict the expensive virtual space (input feature number should be the same as the train/test feature number, and a target name should be provided in the last column first row)
 
 
 ## Datasets
