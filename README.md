@@ -30,4 +30,4 @@
  74-ML-Ion-Perovskite-HWG-AMI.pdf
 
 
-![Image text](https://raw.github.com/yourName/repositpry/master/yourprojectName/img-folder/test.jpg)
+![Image text](https://github.com/Zhang-NJ-Lab/genetic_ion-perovskite_PhotoRechargeableBattery/blob/d3c783360adb07324894c02c1bf70ea58226f77b/images/paper.png)
