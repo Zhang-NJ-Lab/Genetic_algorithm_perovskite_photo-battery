@@ -1,7 +1,9 @@
-# genetic_ion-perovskite_PhotoRechargeableBattery
+# Genetic programming to provide mathematical equation to decouple contributions for ion/perovskite photo-rechargeable battery materials
+
  genetic classification and regression codes for ion battery paper
 
-# instruction
+
+# Instructions
 
 ## Follow the three jupyter tutorial files
  
@@ -10,6 +12,7 @@
  symbolic_classification.ipynb     classification task (stable or unstable)
 
  genetic_prediction.ipynb          predict the expensive virtual space (input feature number should be the same as the train/test feature number, and a target name should be provided in the last column first row)
+
 
 ## Datasets
 
