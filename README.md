@@ -8,7 +8,7 @@
 ## Follow the jupyter tutorial files
 
  Symbolic_regression_4.ipynb
-_3 types of feature generation methods (magpie, mannual and one-hot from matminer) + Symbolic regression_
+ _3 types of feature generation methods (magpie, mannual and one-hot from matminer) + Symbolic regression_
 
  
  symbolic_regression.ipynb         
