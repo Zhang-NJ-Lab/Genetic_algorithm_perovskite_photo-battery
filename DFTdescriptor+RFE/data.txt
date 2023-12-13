@@ -1,0 +1,10 @@
+Whether the feature is selected:
+False False False False False False False False False False False False False False False False False False False False False False False False False True False False False False False True False False False False False False True False False False False False False False False False False False False False False False False True False False False False False False False False False False False True False False False False 
+Acquired data feature size:
+(640,5)
+S_rfe(Final feature)£º
+A2 Specific Heat
+Ion Specific Heat
+X4 Density
+Ion Firstlonization
+X1 Melting Point

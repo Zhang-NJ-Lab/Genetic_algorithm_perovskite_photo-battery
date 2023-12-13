@@ -33,8 +33,12 @@ _train/test dataset for classification_
 _train/test dataset for regression_
 
 
- TrainTest-description.xlsx     
+ TrainTest-description.xlsx    
 _description of the train/test dataset_
+
+
+ prediction_description.csv     
+_description of the virtual dataset waiting for prediction_
 
 
 ## Paper to extract dataset
