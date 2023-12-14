@@ -1,0 +1,641 @@
+Name,A1,A2,B,X1,X2,X3,X4,Ion,PrecursorA,mpid,Eg,Eform,Magnetization,Cell volumn,Number of atoms,Density,PrecursorB,,,,A2 Specific Heat,Ion Specific Heat,X4 Density,Ion Firstlonization,X1 Melting Point,Adsorption energy(ev)
+Li2GeF4 Li+,Li,Li,Ge,F,F,F,F,Li+,LiF,mp-1138,8.72,-3.19,0,68.09,8,2.53,GeF2,,,,3.582,0.897,0.00321,5.9858,172.31,0
+Li2GeF4 Zn2+,Li,Li,Ge,F,F,F,F,Zn2+,LiF,,,,,,,,GeF2,,,,1.228,0.897,0.00321,5.9858,53.63,0
+Li2GeF4 K+,Li,Li,Ge,F,F,F,F,K+,LiF,,,,,,,,GeF2,,,,3.582,0.388,0.00321,9.3942,172.31,0
+Li2GeF4 Na+,Li,Li,Ge,F,F,F,F,Na+,LiF,,,,,,,,GeF2,,,,3.582,0.897,0.0017,5.9858,53.63,0
+Li2GeF4 Al3+,Li,Li,Ge,F,F,F,F,Al3+,LiF,,,,,,,,GeF2,,,,1.228,0.897,0.0017,5.9858,53.63,0
+Li2GeF4 Ca2+,Li,Li,Ge,F,F,F,F,Ca2+,LiF,,,,,,,,GeF2,,,,1.228,0.388,0.00321,9.3942,53.63,0
+Li2GeF4 Mg2+,Li,Li,Ge,F,F,F,F,Mg2+,LiF,,,,,,,,GeF2,,,,0.757,0.897,0.00321,5.9858,53.63,0
+Li2GeF4 F-,Li,Li,Ge,F,F,F,F,F-,LiF,,,,,,,,GeF2,,,,1.228,0.897,0.00321,5.9858,172.31,0
+Na2GeF4 Li+,Na,Na,Ge,F,F,F,F,Li+,NaF,mp-682,,,,,,,GeF2,,,,0.757,0.897,0.0017,5.9858,53.63,0
+Na2GeF4 Zn2+,Na,Na,Ge,F,F,F,F,Zn2+,NaF,,,,,,,,GeF2,,,,0.363,0.388,3.12,9.3942,53.63,0
+Na2GeF4 K+,Na,Na,Ge,F,F,F,F,K+,NaF,,,,,,,,GeF2,,,,0.363,0.897,3.12,5.9858,53.63,0
+Na2GeF4 Na+,Na,Na,Ge,F,F,F,F,Na+,NaF,,,,,,,,GeF2,,,,3.582,0.388,0.00321,9.3942,172.31,0
+Na2GeF4 Al3+,Na,Na,Ge,F,F,F,F,Al3+,NaF,,,,,,,,GeF2,,,,3.582,0.897,0.0017,5.9858,53.63,0
+Na2GeF4 Ca2+,Na,Na,Ge,F,F,F,F,Ca2+,NaF,,,,,,,,GeF2,,,,3.582,0.388,0.0017,9.3942,53.63,0
+Na2GeF4 Mg2+,Na,Na,Ge,F,F,F,F,Mg2+,NaF,,,,,,,,GeF2,,,,0.757,0.897,0.00321,5.9858,172.31,0
+Na2GeF4 F-,Na,Na,Ge,F,F,F,F,F-,NaF,,,,,,,,GeF2,,,,0.363,0.897,0.0017,5.9858,53.63,0
+K2GeF4 Li+,K,K,Ge,F,F,F,F,Li+,KF,mp-463,5.95,-2.918,0,,,,GeF2,,,,3.582,0.388,3.12,9.3942,266.05,0
+K2GeF4 Zn2+,K,K,Ge,F,F,F,F,Zn2+,KF,,5.95,-2.918,0,,,,GeF2,,,,3.582,0.388,3.12,9.3942,172.31,0
+K2GeF4 K+,K,K,Ge,F,F,F,F,K+,KF,,5.95,-2.918,0,,,,GeF2,,,,3.582,0.388,0.00321,9.3942,172.31,0
+K2GeF4 Na+,K,K,Ge,F,F,F,F,Na+,KF,,5.95,-2.918,0,,,,GeF2,,,,0.363,0.897,4.93,5.9858,53.63,0
+K2GeF4 Al3+,K,K,Ge,F,F,F,F,Al3+,KF,,5.95,-2.918,0,,,,GeF2,,,,3.582,0.897,0.00321,5.9858,172.31,0
+K2GeF4 Ca2+,K,K,Ge,F,F,F,F,Ca2+,KF,,5.95,-2.918,0,,,,GeF2,,,,0.757,0.388,0.00321,9.3942,53.63,0
+K2GeF4 Mg2+,K,K,Ge,F,F,F,F,Mg2+,KF,,5.95,-2.918,0,,,,GeF2,,,,3.582,1.023,0.00321,7.6462,172.31,0
+K2GeF4 F-,K,K,Ge,F,F,F,F,F-,KF,,5.95,-2.918,0,,,,GeF2,,,,3.582,0.388,0.00321,9.3942,53.63,0
+Rb2GeF4 Li+,Rb,Rb,Ge,F,F,F,F,Li+,RbF,mp-2064,,,,,,,GeF2,,,,1.228,0.897,0.0017,5.9858,53.63,0
+Rb2GeF4 Zn2+,Rb,Rb,Ge,F,F,F,F,Zn2+,RbF,,,,,,,,GeF2,,,,1.228,0.388,0.0017,9.3942,53.63,0
+Rb2GeF4 K+,Rb,Rb,Ge,F,F,F,F,K+,RbF,,,,,,,,GeF2,,,,3.582,0.897,3.12,5.9858,172.31,0
+Rb2GeF4 Na+,Rb,Rb,Ge,F,F,F,F,Na+,RbF,,,,,,,,GeF2,,,,0.757,0.897,0.0017,5.9858,53.63,0
+Rb2GeF4 Al3+,Rb,Rb,Ge,F,F,F,F,Al3+,RbF,,,,,,,,GeF2,,,,0.757,0.388,0.0017,9.3942,53.63,0
+Rb2GeF4 Ca2+,Rb,Rb,Ge,F,F,F,F,Ca2+,RbF,,,,,,,,GeF2,,,,3.582,0.897,0.00321,5.9858,172.31,0
+Rb2GeF4 Mg2+,Rb,Rb,Ge,F,F,F,F,Mg2+,RbF,,,,,,,,GeF2,,,,1.228,0.388,0.00321,9.3942,172.31,0
+Rb2GeF4 F-,Rb,Rb,Ge,F,F,F,F,F-,RbF,,,,,,,,GeF2,,,,0.363,0.897,0.00321,5.9858,172.31,0
+Cs2GeF4 Li+,Cs,Cs,Ge,F,F,F,F,Li+,CsF,mp-1784,,,,,,,GeF2,,,,1.228,0.897,3.12,5.9858,266.05,0
+Cs2GeF4 Zn2+,Cs,Cs,Ge,F,F,F,F,Zn2+,CsF,,,,,,,,GeF2,,,,0.363,0.388,4.93,9.3942,53.63,0
+Cs2GeF4 K+,Cs,Cs,Ge,F,F,F,F,K+,CsF,,,,,,,,GeF2,,,,0.757,0.388,0.00321,9.3942,172.31,0
+Cs2GeF4 Na+,Cs,Cs,Ge,F,F,F,F,Na+,CsF,,,,,,,,GeF2,,,,3.582,0.388,3.12,9.3942,266.05,0
+Cs2GeF4 Al3+,Cs,Cs,Ge,F,F,F,F,Al3+,CsF,,,,,,,,GeF2,,,,1.228,0.388,0.00321,9.3942,172.31,0
+Cs2GeF4 Ca2+,Cs,Cs,Ge,F,F,F,F,Ca2+,CsF,,,,,,,,GeF2,,,,1.228,0.388,3.12,9.3942,172.31,0
+Cs2GeF4 Mg2+,Cs,Cs,Ge,F,F,F,F,Mg2+,CsF,,,,,,,,GeF2,,,,1.228,0.897,0.0017,5.9858,53.63,0
+Cs2GeF4 F-,Cs,Cs,Ge,F,F,F,F,F-,CsF,,,,,,,,GeF2,,,,1.228,0.388,3.12,9.3942,266.05,0
+Li2SnF4 Li+,Li,Li,Sn,F,F,F,F,Li+,LiF,mp-1138,,,,,,,SnF2,,,,3.582,0.897,3.12,5.9858,266.05,0
+Li2SnF4 Zn2+,Li,Li,Sn,F,F,F,F,Zn2+,LiF,,,,,,,,SnF2,,,,3.582,0.897,3.12,5.9858,266.05,0
+Li2SnF4 K+,Li,Li,Sn,F,F,F,F,K+,LiF,,,,,,,,SnF2,,,,0.757,0.388,0.00321,9.3942,172.31,0
+Li2SnF4 Na+,Li,Li,Sn,F,F,F,F,Na+,LiF,,,,,,,,SnF2,,,,0.757,0.388,0.00321,9.3942,172.31,0
+Li2SnF4 Al3+,Li,Li,Sn,F,F,F,F,Al3+,LiF,,,,,,,,SnF2,,,,1.228,0.897,0.00321,5.9858,172.31,0
+Li2SnF4 Ca2+,Li,Li,Sn,F,F,F,F,Ca2+,LiF,,,,,,,,SnF2,,,,3.582,0.897,0.00321,5.9858,53.63,0
+Li2SnF4 Mg2+,Li,Li,Sn,F,F,F,F,Mg2+,LiF,,,,,,,,SnF2,,,,3.582,0.388,3.12,9.3942,266.05,0
+Li2SnF4 F-,Li,Li,Sn,F,F,F,F,F-,LiF,,,,,,,,SnF2,,,,0.757,0.388,0.00321,9.3942,172.31,0
+Na2SnF4 Li+,Na,Na,Sn,F,F,F,F,Li+,NaF,mp-682,,,,,,,SnF2,,,,1.228,0.897,0.00321,5.9858,172.31,0
+Na2SnF4 Zn2+,Na,Na,Sn,F,F,F,F,Zn2+,NaF,,,,,,,,SnF2,,,,0.757,0.388,3.12,9.3942,266.05,0
+Na2SnF4 K+,Na,Na,Sn,F,F,F,F,K+,NaF,,,,,,,,SnF2,,,,1.228,0.388,0.00321,9.3942,172.31,0
+Na2SnF4 Na+,Na,Na,Sn,F,F,F,F,Na+,NaF,,,,,,,,SnF2,,,,1.228,0.388,0.0017,9.3942,53.63,0
+Na2SnF4 Al3+,Na,Na,Sn,F,F,F,F,Al3+,NaF,,,,,,,,SnF2,,,,0.363,0.388,0.0017,9.3942,53.63,0
+Na2SnF4 Ca2+,Na,Na,Sn,F,F,F,F,Ca2+,NaF,,,,,,,,SnF2,,,,0.242,0.388,0.00321,9.3942,172.31,0
+Na2SnF4 Mg2+,Na,Na,Sn,F,F,F,F,Mg2+,NaF,,,,,,,,SnF2,,,,0.363,0.897,0.0017,5.9858,53.63,0
+Na2SnF4 F-,Na,Na,Sn,F,F,F,F,F-,NaF,,,,,,,,SnF2,,,,1.228,0.897,3.12,5.9858,172.31,0
+K2SnF4 Li+,K,K,Sn,F,F,F,F,Li+,KF,mp-463,,,,,,,SnF2,,,,1.228,0.897,4.93,5.9858,266.05,0
+K2SnF4 Zn2+,K,K,Sn,F,F,F,F,Zn2+,KF,,,,,,,,SnF2,,,,3.582,0.897,0.0017,5.9858,53.63,0
+K2SnF4 K+,K,K,Sn,F,F,F,F,K+,KF,,,,,,,,SnF2,,,,1.228,0.388,3.12,9.3942,266.05,0
+K2SnF4 Na+,K,K,Sn,F,F,F,F,Na+,KF,,,,,,,,SnF2,,,,0.757,0.388,4.93,9.3942,53.63,0
+K2SnF4 Al3+,K,K,Sn,F,F,F,F,Al3+,KF,,,,,,,,SnF2,,,,0.363,0.388,0.00321,9.3942,172.31,0
+K2SnF4 Ca2+,K,K,Sn,F,F,F,F,Ca2+,KF,,,,,,,,SnF2,,,,0.363,0.388,0.00321,9.3942,172.31,0
+K2SnF4 Mg2+,K,K,Sn,F,F,F,F,Mg2+,KF,,,,,,,,SnF2,,,,1.228,0.897,0.0017,5.9858,53.63,0
+K2SnF4 F-,K,K,Sn,F,F,F,F,F-,KF,,,,,,,,SnF2,,,,0.757,0.897,4.93,5.9858,53.63,0
+Rb2SnF4 Li+,Rb,Rb,Sn,F,F,F,F,Li+,RbF,mp-2064,,,,,,,SnF2,,,,0.757,0.388,3.12,9.3942,266.05,0
+Rb2SnF4 Zn2+,Rb,Rb,Sn,F,F,F,F,Zn2+,RbF,,,,,,,,SnF2,,,,1.228,0.897,3.12,5.9858,266.05,0
+Rb2SnF4 K+,Rb,Rb,Sn,F,F,F,F,K+,RbF,,,,,,,,SnF2,,,,1.228,0.388,3.12,9.3942,266.05,0
+Rb2SnF4 Na+,Rb,Rb,Sn,F,F,F,F,Na+,RbF,,,,,,,,SnF2,,,,1.228,0.897,3.12,5.9858,266.05,0
+Rb2SnF4 Al3+,Rb,Rb,Sn,F,F,F,F,Al3+,RbF,,,,,,,,SnF2,,,,3.582,0.388,4.93,9.3942,266.05,0
+Rb2SnF4 Ca2+,Rb,Rb,Sn,F,F,F,F,Ca2+,RbF,,,,,,,,SnF2,,,,0.242,0.897,0.00321,5.9858,172.31,0
+Rb2SnF4 Mg2+,Rb,Rb,Sn,F,F,F,F,Mg2+,RbF,,,,,,,,SnF2,,,,0.363,0.388,0.00321,9.3942,172.31,0
+Rb2SnF4 F-,Rb,Rb,Sn,F,F,F,F,F-,RbF,,,,,,,,SnF2,,,,0.757,0.897,3.12,5.9858,266.05,0
+Cs2SnF4 Li+,Cs,Cs,Sn,F,F,F,F,Li+,CsF,,,,,,,,SnF2,,,,3.582,0.897,4.93,5.9858,386.65,0
+Cs2SnF4 Zn2+,Cs,Cs,Sn,F,F,F,F,Zn2+,CsF,,,,,,,,SnF2,,,,0.757,0.897,0.00321,5.9858,172.31,0
+Cs2SnF4 K+,Cs,Cs,Sn,F,F,F,F,K+,CsF,,,,,,,,SnF2,,,,0.757,0.388,3.12,9.3942,266.05,0
+Cs2SnF4 Na+,Cs,Cs,Sn,F,F,F,F,Na+,CsF,,,,,,,,SnF2,,,,0.242,0.388,0.0017,9.3942,53.63,0
+Cs2SnF4 Al3+,Cs,Cs,Sn,F,F,F,F,Al3+,CsF,,,,,,,,SnF2,,,,1.228,1.023,0.00321,7.6462,53.63,0
+Cs2SnF4 Ca2+,Cs,Cs,Sn,F,F,F,F,Ca2+,CsF,,,,,,,,SnF2,,,,1.228,0.388,4.93,9.3942,266.05,0
+Cs2SnF4 Mg2+,Cs,Cs,Sn,F,F,F,F,Mg2+,CsF,,,,,,,,SnF2,,,,0.757,0.388,0.0017,9.3942,53.63,0
+Cs2SnF4 F-,Cs,Cs,Sn,F,F,F,F,F-,CsF,,,,,,,,SnF2,,,,0.242,0.897,0.0017,5.9858,53.63,0
+Li2PbF4 Li+,Li,Li,Pb,F,F,F,F,Li+,LiF,,,,,,,,PbF2,,,,0.757,0.388,3.12,9.3942,266.05,0
+Li2PbF4 Zn2+,Li,Li,Pb,F,F,F,F,Zn2+,LiF,,,,,,,,PbF2,,,,3.582,0.388,4.93,9.3942,386.65,0
+Li2PbF4 K+,Li,Li,Pb,F,F,F,F,K+,LiF,,,,,,,,PbF2,,,,3.582,0.388,0.0017,9.3942,53.63,0
+Li2PbF4 Na+,Li,Li,Pb,F,F,F,F,Na+,LiF,,,,,,,,PbF2,,,,0.363,0.388,3.12,9.3942,266.05,0
+Li2PbF4 Al3+,Li,Li,Pb,F,F,F,F,Al3+,LiF,,,,,,,,PbF2,,,,3.582,0.897,4.93,5.9858,386.65,0
+Li2PbF4 Ca2+,Li,Li,Pb,F,F,F,F,Ca2+,LiF,,,,,,,,PbF2,,,,0.242,0.388,0.00321,9.3942,172.31,0
+Li2PbF4 Mg2+,Li,Li,Pb,F,F,F,F,Mg2+,LiF,,,,,,,,PbF2,,,,0.757,0.897,0.00321,5.9858,172.31,0
+Li2PbF4 F-,Li,Li,Pb,F,F,F,F,F-,LiF,,,,,,,,PbF2,,,,0.757,0.388,0.00321,9.3942,266.05,0
+Na2PbF4 Li+,Na,Na,Pb,F,F,F,F,Li+,NaF,,,,,,,,PbF2,,,,0.242,0.388,0.00321,9.3942,172.31,0
+Na2PbF4 Zn2+,Na,Na,Pb,F,F,F,F,Zn2+,NaF,,,,,,,,PbF2,,,,0.363,0.897,3.12,5.9858,266.05,0
+Na2PbF4 K+,Na,Na,Pb,F,F,F,F,K+,NaF,,,,,,,,PbF2,,,,0.757,0.897,0.0017,5.9858,53.63,0
+Na2PbF4 Na+,Na,Na,Pb,F,F,F,F,Na+,NaF,,,,,,,,PbF2,,,,0.363,0.388,3.12,9.3942,266.05,0
+Na2PbF4 Al3+,Na,Na,Pb,F,F,F,F,Al3+,NaF,,,,,,,,PbF2,,,,0.757,0.897,3.12,5.9858,266.05,0
+Na2PbF4 Ca2+,Na,Na,Pb,F,F,F,F,Ca2+,NaF,,,,,,,,PbF2,,,,0.242,0.897,0.0017,5.9858,53.63,0
+Na2PbF4 Mg2+,Na,Na,Pb,F,F,F,F,Mg2+,NaF,,,,,,,,PbF2,,,,0.363,0.897,0.0017,5.9858,53.63,0
+Na2PbF4 F-,Na,Na,Pb,F,F,F,F,F-,NaF,,,,,,,,PbF2,,,,0.242,0.388,0.0017,9.3942,53.63,0
+K2PbF4 Li+,K,K,Pb,F,F,F,F,Li+,KF,,,,,,,,PbF2,,,,0.363,0.388,3.12,9.3942,266.05,0
+K2PbF4 Zn2+,K,K,Pb,F,F,F,F,Zn2+,KF,,,,,,,,PbF2,,,,0.242,0.388,0.00321,9.3942,172.31,0
+K2PbF4 K+,K,K,Pb,F,F,F,F,K+,KF,,,,,,,,PbF2,,,,0.757,0.897,0.00321,5.9858,172.31,0
+K2PbF4 Na+,K,K,Pb,F,F,F,F,Na+,KF,,,,,,,,PbF2,,,,3.582,0.897,4.93,5.9858,386.65,0
+K2PbF4 Al3+,K,K,Pb,F,F,F,F,Al3+,KF,,,,,,,,PbF2,,,,0.363,0.388,3.12,9.3942,266.05,0
+K2PbF4 Ca2+,K,K,Pb,F,F,F,F,Ca2+,KF,,,,,,,,PbF2,,,,0.363,0.388,0.0017,9.3942,53.63,0
+K2PbF4 Mg2+,K,K,Pb,F,F,F,F,Mg2+,KF,,,,,,,,PbF2,,,,1.228,1.023,0.00321,7.6462,172.31,0
+K2PbF4 F-,K,K,Pb,F,F,F,F,F-,KF,,,,,,,,PbF2,,,,0.363,0.897,3.12,5.9858,266.05,0
+Rb2PbF4 Li+,Rb,Rb,Pb,F,F,F,F,Li+,RbF,,,,,,,,PbF2,,,,3.582,0.388,4.93,9.3942,386.65,0
+Rb2PbF4 Zn2+,Rb,Rb,Pb,F,F,F,F,Zn2+,RbF,,,,,,,,PbF2,,,,1.228,1.023,0.00321,7.6462,172.31,0
+Rb2PbF4 K+,Rb,Rb,Pb,F,F,F,F,K+,RbF,,,,,,,,PbF2,,,,1.228,0.897,4.93,5.9858,386.65,0
+Rb2PbF4 Na+,Rb,Rb,Pb,F,F,F,F,Na+,RbF,,,,,,,,PbF2,,,,1.228,1.023,3.12,7.6462,172.31,0
+Rb2PbF4 Al3+,Rb,Rb,Pb,F,F,F,F,Al3+,RbF,,,,,,,,PbF2,,,,1.228,0.388,4.93,9.3942,386.65,0
+Rb2PbF4 Ca2+,Rb,Rb,Pb,F,F,F,F,Ca2+,RbF,,,,,,,,PbF2,,,,1.228,1.023,0.0017,7.6462,53.63,0
+Rb2PbF4 Mg2+,Rb,Rb,Pb,F,F,F,F,Mg2+,RbF,,,,,,,,PbF2,,,,0.757,1.023,0.00321,7.6462,172.31,0
+Rb2PbF4 F-,Rb,Rb,Pb,F,F,F,F,F-,RbF,,,,,,,,PbF2,,,,1.228,1.023,3.12,7.6462,266.05,0
+Cs2PbF4 Li+,Cs,Cs,Pb,F,F,F,F,Li+,CsF,,,,,,,,PbF2,,,,0.757,0.897,3.12,5.9858,266.05,0
+Cs2PbF4 Zn2+,Cs,Cs,Pb,F,F,F,F,Zn2+,CsF,,,,,,,,PbF2,,,,0.757,0.897,3.12,5.9858,266.05,0
+Cs2PbF4 K+,Cs,Cs,Pb,F,F,F,F,K+,CsF,,,,,,,,PbF2,,,,0.363,0.897,0.00321,5.9858,172.31,0
+Cs2PbF4 Na+,Cs,Cs,Pb,F,F,F,F,Na+,CsF,,,,,,,,PbF2,,,,1.228,0.388,4.93,9.3942,386.65,0
+Cs2PbF4 Al3+,Cs,Cs,Pb,F,F,F,F,Al3+,CsF,,,,,,,,PbF2,,,,0.363,0.388,4.93,9.3942,266.05,0
+Cs2PbF4 Ca2+,Cs,Cs,Pb,F,F,F,F,Ca2+,CsF,,,,,,,,PbF2,,,,0.242,0.897,0.00321,5.9858,172.31,0
+Cs2PbF4 Mg2+,Cs,Cs,Pb,F,F,F,F,Mg2+,CsF,,,,,,,,PbF2,,,,0.757,1.023,0.0017,7.6462,53.63,0
+Cs2PbF4 F-,Cs,Cs,Pb,F,F,F,F,F-,CsF,,,,,,,,PbF2,,,,0.757,1.023,0.00321,7.6462,172.31,0
+Li2GeCl4 Li+,Li,Li,Ge,Cl,Cl,Cl,Cl,Li+,LiCl,,,,,,,,GeCl2,,,,0.757,0.388,0.0017,9.3942,53.63,0
+Li2GeCl4 Zn2+,Li,Li,Ge,Cl,Cl,Cl,Cl,Zn2+,LiCl,,,,,,,,GeCl2,,,,0.242,0.388,3.12,9.3942,266.05,0
+Li2GeCl4 K+,Li,Li,Ge,Cl,Cl,Cl,Cl,K+,LiCl,,,,,,,,GeCl2,,,,1.228,1.023,0.0017,7.6462,53.63,0
+Li2GeCl4 Na+,Li,Li,Ge,Cl,Cl,Cl,Cl,Na+,LiCl,,,,,,,,GeCl2,,,,0.242,0.388,3.12,9.3942,266.05,0
+Li2GeCl4 Al3+,Li,Li,Ge,Cl,Cl,Cl,Cl,Al3+,LiCl,,,,,,,,GeCl2,,,,0.757,0.897,0.00321,5.9858,266.05,0
+Li2GeCl4 Ca2+,Li,Li,Ge,Cl,Cl,Cl,Cl,Ca2+,LiCl,,,,,,,,GeCl2,,,,0.363,0.897,0.00321,5.9858,172.31,0
+Li2GeCl4 Mg2+,Li,Li,Ge,Cl,Cl,Cl,Cl,Mg2+,LiCl,,,,,,,,GeCl2,,,,3.582,1.023,0.00321,7.6462,172.31,0
+Li2GeCl4 F-,Li,Li,Ge,Cl,Cl,Cl,Cl,F-,LiCl,,,,,,,,GeCl2,,,,0.757,1.023,0.00321,7.6462,172.31,0
+Na2GeCl4 Li+,Na,Na,Ge,Cl,Cl,Cl,Cl,Li+,NaCl,,,,,,,,GeCl2,,,,0.363,1.023,4.93,7.6462,53.63,0
+Na2GeCl4 Zn2+,Na,Na,Ge,Cl,Cl,Cl,Cl,Zn2+,NaCl,,,,,,,,GeCl2,,,,3.582,1.023,3.12,7.6462,266.05,0
+Na2GeCl4 K+,Na,Na,Ge,Cl,Cl,Cl,Cl,K+,NaCl,,,,,,,,GeCl2,,,,0.757,1.023,0.0017,7.6462,53.63,0
+Na2GeCl4 Na+,Na,Na,Ge,Cl,Cl,Cl,Cl,Na+,NaCl,,,,,,,,GeCl2,,,,1.228,0.388,4.93,9.3942,386.65,0
+Na2GeCl4 Al3+,Na,Na,Ge,Cl,Cl,Cl,Cl,Al3+,NaCl,,,,,,,,GeCl2,,,,1.228,1.023,3.12,7.6462,266.05,0
+Na2GeCl4 Ca2+,Na,Na,Ge,Cl,Cl,Cl,Cl,Ca2+,NaCl,,,,,,,,GeCl2,,,,1.228,0.388,0.0017,9.3942,53.63,0
+Na2GeCl4 Mg2+,Na,Na,Ge,Cl,Cl,Cl,Cl,Mg2+,NaCl,,,,,,,,GeCl2,,,,3.582,1.023,0.00321,7.6462,172.31,0
+Na2GeCl4 F-,Na,Na,Ge,Cl,Cl,Cl,Cl,F-,NaCl,,,,,,,,GeCl2,,,,0.242,0.897,0.0017,5.9858,53.63,0
+K2GeCl4 Li+,K,K,Ge,Cl,Cl,Cl,Cl,Li+,KCl,,,,,,,,GeCl2,,,,1.228,0.897,4.93,5.9858,386.65,0
+K2GeCl4 Zn2+,K,K,Ge,Cl,Cl,Cl,Cl,Zn2+,KCl,,,,,,,,GeCl2,,,,0.242,0.388,3.12,9.3942,266.05,0
+K2GeCl4 K+,K,K,Ge,Cl,Cl,Cl,Cl,K+,KCl,,,,,,,,GeCl2,,,,0.757,1.023,0.00321,7.6462,53.63,0
+K2GeCl4 Na+,K,K,Ge,Cl,Cl,Cl,Cl,Na+,KCl,,,,,,,,GeCl2,,,,0.363,1.023,0.00321,7.6462,172.31,0
+K2GeCl4 Al3+,K,K,Ge,Cl,Cl,Cl,Cl,Al3+,KCl,,,,,,,,GeCl2,,,,0.363,0.388,0.0017,9.3942,53.63,0
+K2GeCl4 Ca2+,K,K,Ge,Cl,Cl,Cl,Cl,Ca2+,KCl,,,,,,,,GeCl2,,,,0.757,1.023,3.12,7.6462,266.05,0
+K2GeCl4 Mg2+,K,K,Ge,Cl,Cl,Cl,Cl,Mg2+,KCl,,,,,,,,GeCl2,,,,0.757,0.388,4.93,9.3942,386.65,0
+K2GeCl4 F-,K,K,Ge,Cl,Cl,Cl,Cl,F-,KCl,,,,,,,,GeCl2,,,,3.582,0.897,3.12,5.9858,266.05,0
+Rb2GeCl4 Li+,Rb,Rb,Ge,Cl,Cl,Cl,Cl,Li+,RbCl,,,,,,,,GeCl2,,,,0.757,1.023,3.12,7.6462,266.05,0
+Rb2GeCl4 Zn2+,Rb,Rb,Ge,Cl,Cl,Cl,Cl,Zn2+,RbCl,,,,,,,,GeCl2,,,,1.228,1.228,0.00321,5.1391,53.63,0
+Rb2GeCl4 K+,Rb,Rb,Ge,Cl,Cl,Cl,Cl,K+,RbCl,,,,,,,,GeCl2,,,,0.363,1.023,0.00321,7.6462,172.31,0
+Rb2GeCl4 Na+,Rb,Rb,Ge,Cl,Cl,Cl,Cl,Na+,RbCl,,,,,,,,GeCl2,,,,0.363,0.388,4.93,9.3942,386.65,0
+Rb2GeCl4 Al3+,Rb,Rb,Ge,Cl,Cl,Cl,Cl,Al3+,RbCl,,,,,,,,GeCl2,,,,3.582,1.023,3.12,7.6462,172.31,0
+Rb2GeCl4 Ca2+,Rb,Rb,Ge,Cl,Cl,Cl,Cl,Ca2+,RbCl,,,,,,,,GeCl2,,,,3.582,1.023,3.12,7.6462,266.05,0
+Rb2GeCl4 Mg2+,Rb,Rb,Ge,Cl,Cl,Cl,Cl,Mg2+,RbCl,,,,,,,,GeCl2,,,,1.228,1.023,0.00321,7.6462,172.31,0
+Rb2GeCl4 F-,Rb,Rb,Ge,Cl,Cl,Cl,Cl,F-,RbCl,,,,,,,,GeCl2,,,,1.228,0.388,0.0017,9.3942,53.63,0
+Cs2GeCl4 Li+,Cs,Cs,Ge,Cl,Cl,Cl,Cl,Li+,CsCl,,,,,,,,GeCl2,,,,0.363,0.897,3.12,5.9858,266.05,0
+Cs2GeCl4 Zn2+,Cs,Cs,Ge,Cl,Cl,Cl,Cl,Zn2+,CsCl,,,,,,,,GeCl2,,,,3.582,1.023,3.12,7.6462,266.05,0
+Cs2GeCl4 K+,Cs,Cs,Ge,Cl,Cl,Cl,Cl,K+,CsCl,,,,,,,,GeCl2,,,,3.582,0.388,4.93,9.3942,386.65,0
+Cs2GeCl4 Na+,Cs,Cs,Ge,Cl,Cl,Cl,Cl,Na+,CsCl,,,,,,,,GeCl2,,,,3.582,0.388,0.0017,9.3942,53.63,0
+Cs2GeCl4 Al3+,Cs,Cs,Ge,Cl,Cl,Cl,Cl,Al3+,CsCl,,,,,,,,GeCl2,,,,0.363,0.897,3.12,5.9858,266.05,0
+Cs2GeCl4 Ca2+,Cs,Cs,Ge,Cl,Cl,Cl,Cl,Ca2+,CsCl,,,,,,,,GeCl2,,,,0.757,0.388,4.93,9.3942,386.65,0
+Cs2GeCl4 Mg2+,Cs,Cs,Ge,Cl,Cl,Cl,Cl,Mg2+,CsCl,,,,,,,,GeCl2,,,,0.757,0.388,4.93,9.3942,386.65,0
+Cs2GeCl4 F-,Cs,Cs,Ge,Cl,Cl,Cl,Cl,F-,CsCl,,,,,,,,GeCl2,,,,0.363,1.023,0.00321,7.6462,172.31,0
+Li2SnCl4 Li+,Li,Li,Sn,Cl,Cl,Cl,Cl,Li+,LiCl,,,,,,,,SnCl2,,,,0.242,0.897,3.12,5.9858,266.05,0
+Li2SnCl4 Zn2+,Li,Li,Sn,Cl,Cl,Cl,Cl,Zn2+,LiCl,,,,,,,,SnCl2,,,,0.757,1.023,3.12,7.6462,266.05,0
+Li2SnCl4 K+,Li,Li,Sn,Cl,Cl,Cl,Cl,K+,LiCl,,,,,,,,SnCl2,,,,3.582,1.023,4.93,7.6462,266.05,0
+Li2SnCl4 Na+,Li,Li,Sn,Cl,Cl,Cl,Cl,Na+,LiCl,,,,,,,,SnCl2,,,,0.363,1.023,3.12,7.6462,266.05,0
+Li2SnCl4 Al3+,Li,Li,Sn,Cl,Cl,Cl,Cl,Al3+,LiCl,,,,,,,,SnCl2,,,,0.363,1.023,0.0017,7.6462,53.63,0
+Li2SnCl4 Ca2+,Li,Li,Sn,Cl,Cl,Cl,Cl,Ca2+,LiCl,,,,,,,,SnCl2,,,,0.242,1.023,0.0017,7.6462,53.63,0
+Li2SnCl4 Mg2+,Li,Li,Sn,Cl,Cl,Cl,Cl,Mg2+,LiCl,,,,,,,,SnCl2,,,,3.582,0.897,4.93,5.9858,266.05,0
+Li2SnCl4 F-,Li,Li,Sn,Cl,Cl,Cl,Cl,F-,LiCl,,,,,,,,SnCl2,,,,3.582,1.023,4.93,7.6462,386.65,0
+Na2SnCl4 Li+,Na,Na,Sn,Cl,Cl,Cl,Cl,Li+,NaCl,,,,,,,,SnCl2,,,,0.242,0.388,4.93,9.3942,266.05,0
+Na2SnCl4 Zn2+,Na,Na,Sn,Cl,Cl,Cl,Cl,Zn2+,NaCl,,,,,,,,SnCl2,,,,0.757,1.023,4.93,7.6462,53.63,0
+Na2SnCl4 K+,Na,Na,Sn,Cl,Cl,Cl,Cl,K+,NaCl,,,,,,,,SnCl2,,,,0.757,1.023,0.00321,7.6462,266.05,0
+Na2SnCl4 Na+,Na,Na,Sn,Cl,Cl,Cl,Cl,Na+,NaCl,,,,,,,,SnCl2,,,,0.363,0.388,4.93,9.3942,386.65,0
+Na2SnCl4 Al3+,Na,Na,Sn,Cl,Cl,Cl,Cl,Al3+,NaCl,,,,,,,,SnCl2,,,,0.242,0.897,0.00321,5.9858,172.31,0
+Na2SnCl4 Ca2+,Na,Na,Sn,Cl,Cl,Cl,Cl,Ca2+,NaCl,,,,,,,,SnCl2,,,,0.242,1.023,0.00321,7.6462,172.31,1
+Na2SnCl4 Mg2+,Na,Na,Sn,Cl,Cl,Cl,Cl,Mg2+,NaCl,,,,,,,,SnCl2,,,,1.228,1.023,4.93,7.6462,386.65,1
+Na2SnCl4 F-,Na,Na,Sn,Cl,Cl,Cl,Cl,F-,NaCl,,,,,,,,SnCl2,,,,0.757,0.897,4.93,5.9858,386.65,1
+K2SnCl4 Li+,K,K,Sn,Cl,Cl,Cl,Cl,Li+,KCl,,,,,,,,SnCl2,,,,0.757,1.023,3.12,7.6462,266.05,1
+K2SnCl4 Zn2+,K,K,Sn,Cl,Cl,Cl,Cl,Zn2+,KCl,,,,,,,,SnCl2,,,,0.242,0.388,4.93,9.3942,386.65,1
+K2SnCl4 K+,K,K,Sn,Cl,Cl,Cl,Cl,K+,KCl,,,,,,,,SnCl2,,,,0.242,1.023,0.00321,7.6462,172.31,1
+K2SnCl4 Na+,K,K,Sn,Cl,Cl,Cl,Cl,Na+,KCl,,,,,,,,SnCl2,,,,0.363,0.388,4.93,9.3942,386.65,1
+K2SnCl4 Al3+,K,K,Sn,Cl,Cl,Cl,Cl,Al3+,KCl,,,,,,,,SnCl2,,,,0.363,1.023,3.12,7.6462,266.05,1
+K2SnCl4 Ca2+,K,K,Sn,Cl,Cl,Cl,Cl,Ca2+,KCl,,,,,,,,SnCl2,,,,0.363,0.897,4.93,5.9858,266.05,1
+K2SnCl4 Mg2+,K,K,Sn,Cl,Cl,Cl,Cl,Mg2+,KCl,,,,,,,,SnCl2,,,,0.363,1.023,3.12,7.6462,266.05,1
+K2SnCl4 F-,K,K,Sn,Cl,Cl,Cl,Cl,F-,KCl,,,,,,,,SnCl2,,,,0.242,0.897,0.00321,5.9858,172.31,1
+Rb2SnCl4 Li+,Rb,Rb,Sn,Cl,Cl,Cl,Cl,Li+,RbCl,,,,,,,,SnCl2,,,,0.242,0.388,0.00321,9.3942,386.65,1
+Rb2SnCl4 Zn2+,Rb,Rb,Sn,Cl,Cl,Cl,Cl,Zn2+,RbCl,,,,,,,,SnCl2,,,,0.363,1.023,3.12,7.6462,53.63,1
+Rb2SnCl4 K+,Rb,Rb,Sn,Cl,Cl,Cl,Cl,K+,RbCl,,,,,,,,SnCl2,,,,3.582,1.023,4.93,7.6462,386.65,1
+Rb2SnCl4 Na+,Rb,Rb,Sn,Cl,Cl,Cl,Cl,Na+,RbCl,,,,,,,,SnCl2,,,,0.242,1.023,0.0017,7.6462,53.63,1
+Rb2SnCl4 Al3+,Rb,Rb,Sn,Cl,Cl,Cl,Cl,Al3+,RbCl,,,,,,,,SnCl2,,,,0.242,1.023,0.00321,7.6462,172.31,1
+Rb2SnCl4 Ca2+,Rb,Rb,Sn,Cl,Cl,Cl,Cl,Ca2+,RbCl,,,,,,,,SnCl2,,,,3.582,1.228,0.00321,5.1391,172.31,1
+Rb2SnCl4 Mg2+,Rb,Rb,Sn,Cl,Cl,Cl,Cl,Mg2+,RbCl,,,,,,,,SnCl2,,,,0.757,0.897,4.93,5.9858,386.65,1
+Rb2SnCl4 F-,Rb,Rb,Sn,Cl,Cl,Cl,Cl,F-,RbCl,,,,,,,,SnCl2,,,,0.363,1.023,4.93,7.6462,266.05,1
+Cs2SnCl4 Li+,Cs,Cs,Sn,Cl,Cl,Cl,Cl,Li+,CsCl,,,,,,,,SnCl2,,,,0.242,1.023,3.12,7.6462,266.05,1
+Cs2SnCl4 Zn2+,Cs,Cs,Sn,Cl,Cl,Cl,Cl,Zn2+,CsCl,,,,,,,,SnCl2,,,,0.242,0.388,4.93,9.3942,386.65,1
+Cs2SnCl4 K+,Cs,Cs,Sn,Cl,Cl,Cl,Cl,K+,CsCl,,,,,,,,SnCl2,,,,0.363,1.023,3.12,7.6462,266.05,1
+Cs2SnCl4 Na+,Cs,Cs,Sn,Cl,Cl,Cl,Cl,Na+,CsCl,,,,,,,,SnCl2,,,,1.228,1.023,4.93,7.6462,386.65,1
+Cs2SnCl4 Al3+,Cs,Cs,Sn,Cl,Cl,Cl,Cl,Al3+,CsCl,,,,,,,,SnCl2,,,,1.228,0.757,0.00321,4.3407,53.63,1
+Cs2SnCl4 Ca2+,Cs,Cs,Sn,Cl,Cl,Cl,Cl,Ca2+,CsCl,,,,,,,,SnCl2,,,,0.757,1.228,0.00321,5.1391,53.63,1
+Cs2SnCl4 Mg2+,Cs,Cs,Sn,Cl,Cl,Cl,Cl,Mg2+,CsCl,,,,,,,,SnCl2,,,,0.363,1.228,3.12,5.1391,53.63,1
+Cs2SnCl4 F-,Cs,Cs,Sn,Cl,Cl,Cl,Cl,F-,CsCl,,,,,,,,SnCl2,,,,0.242,0.388,4.93,9.3942,386.65,1
+Li2PbCl4 Li+,Li,Li,Pb,Cl,Cl,Cl,Cl,Li+,LiCl,,,,,,,,PbCl2,,,,0.363,0.897,4.93,5.9858,386.65,1
+Li2PbCl4 Zn2+,Li,Li,Pb,Cl,Cl,Cl,Cl,Zn2+,LiCl,,,,,,,,PbCl2,,,,1.228,0.647,0.00321,6.1132,53.63,1
+Li2PbCl4 K+,Li,Li,Pb,Cl,Cl,Cl,Cl,K+,LiCl,,,,,,,,PbCl2,,,,0.757,0.897,4.93,5.9858,386.65,1
+Li2PbCl4 Na+,Li,Li,Pb,Cl,Cl,Cl,Cl,Na+,LiCl,,,,,,,,PbCl2,,,,0.757,1.023,4.93,7.6462,386.65,1
+Li2PbCl4 Al3+,Li,Li,Pb,Cl,Cl,Cl,Cl,Al3+,LiCl,,,,,,,,PbCl2,,,,0.242,0.388,4.93,9.3942,386.65,1
+Li2PbCl4 Ca2+,Li,Li,Pb,Cl,Cl,Cl,Cl,Ca2+,LiCl,,,,,,,,PbCl2,,,,0.242,0.897,3.12,5.9858,266.05,1
+Li2PbCl4 Mg2+,Li,Li,Pb,Cl,Cl,Cl,Cl,Mg2+,LiCl,,,,,,,,PbCl2,,,,0.242,0.897,3.12,5.9858,266.05,1
+Li2PbCl4 F-,Li,Li,Pb,Cl,Cl,Cl,Cl,F-,LiCl,,,,,,,,PbCl2,,,,0.242,1.023,3.12,7.6462,266.05,1
+Na2PbCl4 Li+,Na,Na,Pb,Cl,Cl,Cl,Cl,Li+,NaCl,,,,,,,,PbCl2,,,,0.242,0.388,0.0017,9.3942,53.63,1
+Na2PbCl4 Zn2+,Na,Na,Pb,Cl,Cl,Cl,Cl,Zn2+,NaCl,,,,,,,,PbCl2,,,,1.228,1.023,4.93,7.6462,386.65,1
+Na2PbCl4 K+,Na,Na,Pb,Cl,Cl,Cl,Cl,K+,NaCl,,,,,,,,PbCl2,,,,0.363,1.228,4.93,5.1391,53.63,1
+Na2PbCl4 Na+,Na,Na,Pb,Cl,Cl,Cl,Cl,Na+,NaCl,,,,,,,,PbCl2,,,,3.582,1.023,4.93,7.6462,386.65,1
+Na2PbCl4 Al3+,Na,Na,Pb,Cl,Cl,Cl,Cl,Al3+,NaCl,,,,,,,,PbCl2,,,,3.582,0.647,0.00321,6.1132,172.31,1
+Na2PbCl4 Ca2+,Na,Na,Pb,Cl,Cl,Cl,Cl,Ca2+,NaCl,,,,,,,,PbCl2,,,,0.363,1.023,4.93,7.6462,386.65,1
+Na2PbCl4 Mg2+,Na,Na,Pb,Cl,Cl,Cl,Cl,Mg2+,NaCl,,,,,,,,PbCl2,,,,0.757,1.023,0.00321,7.6462,172.31,1
+Na2PbCl4 F-,Na,Na,Pb,Cl,Cl,Cl,Cl,F-,NaCl,,,,,,,,PbCl2,,,,0.242,1.023,3.12,7.6462,266.05,1
+K2PbCl4 Li+,K,K,Pb,Cl,Cl,Cl,Cl,Li+,KCl,,,,,,,,PbCl2,,,,0.757,1.023,4.93,7.6462,386.65,1
+K2PbCl4 Zn2+,K,K,Pb,Cl,Cl,Cl,Cl,Zn2+,KCl,,,,,,,,PbCl2,,,,1.228,1.228,0.00321,5.1391,172.31,1
+K2PbCl4 K+,K,K,Pb,Cl,Cl,Cl,Cl,K+,KCl,,,,,,,,PbCl2,,,,1.228,3.582,0.00321,5.3917,53.63,1
+K2PbCl4 Na+,K,K,Pb,Cl,Cl,Cl,Cl,Na+,KCl,,,,,,,,PbCl2,,,,0.363,0.897,4.93,5.9858,386.65,1
+K2PbCl4 Al3+,K,K,Pb,Cl,Cl,Cl,Cl,Al3+,KCl,,,,,,,,PbCl2,,,,1.228,1.228,3.12,5.1391,266.05,1
+K2PbCl4 Ca2+,K,K,Pb,Cl,Cl,Cl,Cl,Ca2+,KCl,,,,,,,,PbCl2,,,,0.757,1.228,3.12,5.1391,266.05,1
+K2PbCl4 Mg2+,K,K,Pb,Cl,Cl,Cl,Cl,Mg2+,KCl,,,,,,,,PbCl2,,,,1.228,1.228,3.12,5.1391,172.31,1
+K2PbCl4 F-,K,K,Pb,Cl,Cl,Cl,Cl,F-,KCl,,,,,,,,PbCl2,,,,3.582,1.023,0.0017,7.6462,53.63,1
+Rb2PbCl4 Li+,Rb,Rb,Pb,Cl,Cl,Cl,Cl,Li+,RbCl,,,,,,,,PbCl2,,,,0.242,1.023,0.00321,7.6462,172.31,1
+Rb2PbCl4 Zn2+,Rb,Rb,Pb,Cl,Cl,Cl,Cl,Zn2+,RbCl,,,,,,,,PbCl2,,,,0.757,1.023,4.93,7.6462,386.65,1
+Rb2PbCl4 K+,Rb,Rb,Pb,Cl,Cl,Cl,Cl,K+,RbCl,,,,,,,,PbCl2,,,,0.757,1.228,3.12,5.1391,266.05,1
+Rb2PbCl4 Na+,Rb,Rb,Pb,Cl,Cl,Cl,Cl,Na+,RbCl,,,,,,,,PbCl2,,,,1.228,1.023,4.93,7.6462,266.05,1
+Rb2PbCl4 Al3+,Rb,Rb,Pb,Cl,Cl,Cl,Cl,Al3+,RbCl,,,,,,,,PbCl2,,,,0.242,1.228,0.00321,5.1391,172.31,1
+Rb2PbCl4 Ca2+,Rb,Rb,Pb,Cl,Cl,Cl,Cl,Ca2+,RbCl,,,,,,,,PbCl2,,,,1.228,1.228,3.12,5.1391,266.05,1
+Rb2PbCl4 Mg2+,Rb,Rb,Pb,Cl,Cl,Cl,Cl,Mg2+,RbCl,,,,,,,,PbCl2,,,,0.363,0.897,4.93,5.9858,386.65,1
+Rb2PbCl4 F-,Rb,Rb,Pb,Cl,Cl,Cl,Cl,F-,RbCl,,,,,,,,PbCl2,,,,3.582,1.023,0.00321,7.6462,53.63,1
+Cs2PbCl4 Li+,Cs,Cs,Pb,Cl,Cl,Cl,Cl,Li+,CsCl,,,,,,,,PbCl2,,,,0.757,0.757,0.00321,4.3407,53.63,1
+Cs2PbCl4 Zn2+,Cs,Cs,Pb,Cl,Cl,Cl,Cl,Zn2+,CsCl,,,,,,,,PbCl2,,,,0.757,1.228,0.00321,5.1391,172.31,1
+Cs2PbCl4 K+,Cs,Cs,Pb,Cl,Cl,Cl,Cl,K+,CsCl,,,,,,,,PbCl2,,,,0.757,1.228,4.93,5.1391,53.63,1
+Cs2PbCl4 Na+,Cs,Cs,Pb,Cl,Cl,Cl,Cl,Na+,CsCl,,,,,,,,PbCl2,,,,1.228,1.023,3.12,7.6462,266.05,1
+Cs2PbCl4 Al3+,Cs,Cs,Pb,Cl,Cl,Cl,Cl,Al3+,CsCl,,,,,,,,PbCl2,,,,0.242,1.023,4.93,7.6462,266.05,1
+Cs2PbCl4 Ca2+,Cs,Cs,Pb,Cl,Cl,Cl,Cl,Ca2+,CsCl,,,,,,,,PbCl2,,,,0.757,1.228,0.00321,5.1391,172.31,1
+Cs2PbCl4 Mg2+,Cs,Cs,Pb,Cl,Cl,Cl,Cl,Mg2+,CsCl,,,,,,,,PbCl2,,,,0.242,0.897,0.00321,5.9858,386.65,1
+Cs2PbCl4 F-,Cs,Cs,Pb,Cl,Cl,Cl,Cl,F-,CsCl,,,,,,,,PbCl2,,,,0.363,1.023,4.93,7.6462,386.65,1
+Li2GeBr4 Li+,Li,Li,Ge,Br,Br,Br,Br,Li+,LiBr,,,,,,,,GeBr2,,,,0.242,0.897,4.93,5.9858,266.05,1
+Li2GeBr4 Zn2+,Li,Li,Ge,Br,Br,Br,Br,Zn2+,LiBr,,,,,,,,GeBr2,,,,0.757,1.228,0.00321,5.1391,172.31,1
+Li2GeBr4 K+,Li,Li,Ge,Br,Br,Br,Br,K+,LiBr,,,,,,,,GeBr2,,,,0.363,1.228,0.00321,5.1391,172.31,1
+Li2GeBr4 Na+,Li,Li,Ge,Br,Br,Br,Br,Na+,LiBr,,,,,,,,GeBr2,,,,3.582,0.757,0.00321,4.3407,172.31,1
+Li2GeBr4 Al3+,Li,Li,Ge,Br,Br,Br,Br,Al3+,LiBr,,,,,,,,GeBr2,,,,3.582,1.228,4.93,5.1391,386.65,1
+Li2GeBr4 Ca2+,Li,Li,Ge,Br,Br,Br,Br,Ca2+,LiBr,,,,,,,,GeBr2,,,,0.757,1.228,0.0017,5.1391,53.63,1
+Li2GeBr4 Mg2+,Li,Li,Ge,Br,Br,Br,Br,Mg2+,LiBr,,,,,,,,GeBr2,,,,0.363,1.228,0.00321,5.1391,172.31,1
+Li2GeBr4 F-,Li,Li,Ge,Br,Br,Br,Br,F-,LiBr,,,,,,,,GeBr2,,,,3.582,1.023,0.0017,7.6462,53.63,1
+Na2GeBr4 Li+,Na,Na,Ge,Br,Br,Br,Br,Li+,NaBr,,,,,,,,GeBr2,,,,0.363,1.228,0.00321,5.1391,172.31,1
+Na2GeBr4 Zn2+,Na,Na,Ge,Br,Br,Br,Br,Zn2+,NaBr,,,,,,,,GeBr2,,,,0.242,1.228,0.00321,5.1391,172.31,1
+Na2GeBr4 K+,Na,Na,Ge,Br,Br,Br,Br,K+,NaBr,,,,,,,,GeBr2,,,,0.242,1.023,4.93,7.6462,386.65,1
+Na2GeBr4 Na+,Na,Na,Ge,Br,Br,Br,Br,Na+,NaBr,,,,,,,,GeBr2,,,,0.757,1.228,0.00321,5.1391,172.31,1
+Na2GeBr4 Al3+,Na,Na,Ge,Br,Br,Br,Br,Al3+,NaBr,,,,,,,,GeBr2,,,,0.363,1.228,3.12,5.1391,266.05,1
+Na2GeBr4 Ca2+,Na,Na,Ge,Br,Br,Br,Br,Ca2+,NaBr,,,,,,,,GeBr2,,,,3.582,1.228,3.12,5.1391,266.05,1
+Na2GeBr4 Mg2+,Na,Na,Ge,Br,Br,Br,Br,Mg2+,NaBr,,,,,,,,GeBr2,,,,0.363,0.757,3.12,4.3407,53.63,1
+Na2GeBr4 F-,Na,Na,Ge,Br,Br,Br,Br,F-,NaBr,,,,,,,,GeBr2,,,,1.228,1.228,0.00321,5.1391,172.31,1
+K2GeBr4 Li+,K,K,Ge,Br,Br,Br,Br,Li+,KBr,,,,,,,,GeBr2,,,,0.242,0.897,4.93,5.9858,386.65,1
+K2GeBr4 Zn2+,K,K,Ge,Br,Br,Br,Br,Zn2+,KBr,,,,,,,,GeBr2,,,,0.757,1.228,3.12,5.1391,266.05,1
+K2GeBr4 K+,K,K,Ge,Br,Br,Br,Br,K+,KBr,,,,,,,,GeBr2,,,,0.363,1.228,3.12,5.1391,266.05,1
+K2GeBr4 Na+,K,K,Ge,Br,Br,Br,Br,Na+,KBr,,,,,,,,GeBr2,,,,0.363,1.023,4.93,7.6462,386.65,1
+K2GeBr4 Al3+,K,K,Ge,Br,Br,Br,Br,Al3+,KBr,,,,,,,,GeBr2,,,,0.242,1.228,0.00321,5.1391,172.31,1
+K2GeBr4 Ca2+,K,K,Ge,Br,Br,Br,Br,Ca2+,KBr,,,,,,,,GeBr2,,,,0.757,0.647,0.00321,6.1132,53.63,1
+K2GeBr4 Mg2+,K,K,Ge,Br,Br,Br,Br,Mg2+,KBr,,,,,,,,GeBr2,,,,0.242,1.228,0.00321,5.1391,172.31,1
+K2GeBr4 F-,K,K,Ge,Br,Br,Br,Br,F-,KBr,,,,,,,,GeBr2,,,,0.363,1.228,3.12,5.1391,266.05,1
+Rb2GeBr4 Li+,Rb,Rb,Ge,Br,Br,Br,Br,Li+,RbBr,,,,,,,,GeBr2,,,,0.242,1.023,0.00321,7.6462,386.65,1
+Rb2GeBr4 Zn2+,Rb,Rb,Ge,Br,Br,Br,Br,Zn2+,RbBr,,,,,,,,GeBr2,,,,0.242,0.897,4.93,5.9858,386.65,1
+Rb2GeBr4 K+,Rb,Rb,Ge,Br,Br,Br,Br,K+,RbBr,,,,,,,,GeBr2,,,,3.582,3.582,0.00321,5.3917,172.31,1
+Rb2GeBr4 Na+,Rb,Rb,Ge,Br,Br,Br,Br,Na+,RbBr,,,,,,,,GeBr2,,,,1.228,0.897,4.93,5.9858,386.65,1
+Rb2GeBr4 Al3+,Rb,Rb,Ge,Br,Br,Br,Br,Al3+,RbBr,,,,,,,,GeBr2,,,,1.228,1.228,0.00321,5.1391,172.31,1
+Rb2GeBr4 Ca2+,Rb,Rb,Ge,Br,Br,Br,Br,Ca2+,RbBr,,,,,,,,GeBr2,,,,0.242,1.228,3.12,5.1391,266.05,1
+Rb2GeBr4 Mg2+,Rb,Rb,Ge,Br,Br,Br,Br,Mg2+,RbBr,,,,,,,,GeBr2,,,,1.228,1.228,4.93,5.1391,386.65,1
+Rb2GeBr4 F-,Rb,Rb,Ge,Br,Br,Br,Br,F-,RbBr,,,,,,,,GeBr2,,,,0.242,1.228,3.12,5.1391,266.05,1
+Cs2GeBr4 Li+,Cs,Cs,Ge,Br,Br,Br,Br,Li+,CsBr,,,,,,,,GeBr2,,,,0.757,1.228,0.00321,5.1391,266.05,1
+Cs2GeBr4 Zn2+,Cs,Cs,Ge,Br,Br,Br,Br,Zn2+,CsBr,,,,,,,,GeBr2,,,,1.228,1.023,0.0017,7.6462,53.63,1
+Cs2GeBr4 K+,Cs,Cs,Ge,Br,Br,Br,Br,K+,CsBr,,,,,,,,GeBr2,,,,0.363,1.228,4.93,5.1391,266.05,1
+Cs2GeBr4 Na+,Cs,Cs,Ge,Br,Br,Br,Br,Na+,CsBr,,,,,,,,GeBr2,,,,0.757,1.228,3.12,5.1391,266.05,1
+Cs2GeBr4 Al3+,Cs,Cs,Ge,Br,Br,Br,Br,Al3+,CsBr,,,,,,,,GeBr2,,,,0.242,1.023,4.93,7.6462,386.65,1
+Cs2GeBr4 Ca2+,Cs,Cs,Ge,Br,Br,Br,Br,Ca2+,CsBr,,,,,,,,GeBr2,,,,3.582,3.582,0.00321,5.3917,172.31,1
+Cs2GeBr4 Mg2+,Cs,Cs,Ge,Br,Br,Br,Br,Mg2+,CsBr,,,,,,,,GeBr2,,,,0.242,1.228,3.12,5.1391,266.05,1
+Cs2GeBr4 F-,Cs,Cs,Ge,Br,Br,Br,Br,F-,CsBr,,,,,,,,GeBr2,,,,3.582,1.228,4.93,5.1391,266.05,1
+Li2SnBr4 Li+,Li,Li,Sn,Br,Br,Br,Br,Li+,LiBr,,,,,,,,SnBr2,,,,0.363,1.228,4.93,5.1391,386.65,1
+Li2SnBr4 Zn2+,Li,Li,Sn,Br,Br,Br,Br,Zn2+,LiBr,,,,,,,,SnBr2,,,,0.757,0.757,0.00321,4.3407,172.31,1
+Li2SnBr4 K+,Li,Li,Sn,Br,Br,Br,Br,K+,LiBr,,,,,,,,SnBr2,,,,0.363,1.228,3.12,5.1391,266.05,1
+Li2SnBr4 Na+,Li,Li,Sn,Br,Br,Br,Br,Na+,LiBr,,,,,,,,SnBr2,,,,0.242,1.023,4.93,7.6462,386.65,1
+Li2SnBr4 Al3+,Li,Li,Sn,Br,Br,Br,Br,Al3+,LiBr,,,,,,,,SnBr2,,,,1.228,1.228,4.93,5.1391,386.65,1
+Li2SnBr4 Ca2+,Li,Li,Sn,Br,Br,Br,Br,Ca2+,LiBr,,,,,,,,SnBr2,,,,0.363,0.647,3.12,6.1132,53.63,1
+Li2SnBr4 Mg2+,Li,Li,Sn,Br,Br,Br,Br,Mg2+,LiBr,,,,,,,,SnBr2,,,,0.757,0.757,0.00321,4.3407,172.31,1
+Li2SnBr4 F-,Li,Li,Sn,Br,Br,Br,Br,F-,LiBr,,,,,,,,SnBr2,,,,3.582,1.228,3.12,5.1391,266.05,1
+Na2SnBr4 Li+,Na,Na,Sn,Br,Br,Br,Br,Li+,NaBr,,,,,,,,SnBr2,,,,0.363,1.228,0.0017,5.1391,53.63,1
+Na2SnBr4 Zn2+,Na,Na,Sn,Br,Br,Br,Br,Zn2+,NaBr,,,,,,,,SnBr2,,,,1.228,0.647,0.00321,6.1132,172.31,1
+Na2SnBr4 K+,Na,Na,Sn,Br,Br,Br,Br,K+,NaBr,,,,,,,,SnBr2,,,,0.757,1.228,4.93,5.1391,386.65,1
+Na2SnBr4 Na+,Na,Na,Sn,Br,Br,Br,Br,Na+,NaBr,,,,,,,,SnBr2,,,,3.582,0.647,0.00321,6.1132,172.31,1
+Na2SnBr4 Al3+,Na,Na,Sn,Br,Br,Br,Br,Al3+,NaBr,,,,,,,,SnBr2,,,,0.242,0.897,4.93,5.9858,386.65,1
+Na2SnBr4 Ca2+,Na,Na,Sn,Br,Br,Br,Br,Ca2+,NaBr,,,,,,,,SnBr2,,,,3.582,0.647,4.93,6.1132,266.05,1
+Na2SnBr4 Mg2+,Na,Na,Sn,Br,Br,Br,Br,Mg2+,NaBr,,,,,,,,SnBr2,,,,0.363,1.228,4.93,5.1391,386.65,1
+Na2SnBr4 F-,Na,Na,Sn,Br,Br,Br,Br,F-,NaBr,,,,,,,,SnBr2,,,,0.757,3.582,0.00321,5.3917,53.63,1
+K2SnBr4 Li+,K,K,Sn,Br,Br,Br,Br,Li+,KBr,,,,,,,,SnBr2,,,,1.228,0.757,3.12,4.3407,172.31,1
+K2SnBr4 Zn2+,K,K,Sn,Br,Br,Br,Br,Zn2+,KBr,,,,,,,,SnBr2,,,,1.228,1.228,3.12,5.1391,266.05,1
+K2SnBr4 K+,K,K,Sn,Br,Br,Br,Br,K+,KBr,,,,,,,,SnBr2,,,,1.228,1.228,4.93,5.1391,386.65,1
+K2SnBr4 Na+,K,K,Sn,Br,Br,Br,Br,Na+,KBr,,,,,,,,SnBr2,,,,0.242,1.228,4.93,5.1391,266.05,1
+K2SnBr4 Al3+,K,K,Sn,Br,Br,Br,Br,Al3+,KBr,,,,,,,,SnBr2,,,,0.363,0.757,0.00321,4.3407,172.31,1
+K2SnBr4 Ca2+,K,K,Sn,Br,Br,Br,Br,Ca2+,KBr,,,,,,,,SnBr2,,,,0.242,1.228,4.93,5.1391,386.65,1
+K2SnBr4 Mg2+,K,K,Sn,Br,Br,Br,Br,Mg2+,KBr,,,,,,,,SnBr2,,,,0.363,1.228,4.93,5.1391,386.65,1
+K2SnBr4 F-,K,K,Sn,Br,Br,Br,Br,F-,KBr,,,,,,,,SnBr2,,,,0.242,1.023,4.93,7.6462,386.65,1
+Rb2SnBr4 Li+,Rb,Rb,Sn,Br,Br,Br,Br,Li+,RbBr,,,,,,,,SnBr2,,,,3.582,0.647,3.12,6.1132,266.05,1
+Rb2SnBr4 Zn2+,Rb,Rb,Sn,Br,Br,Br,Br,Zn2+,RbBr,,,,,,,,SnBr2,,,,0.242,0.757,0.00321,4.3407,172.31,1
+Rb2SnBr4 K+,Rb,Rb,Sn,Br,Br,Br,Br,K+,RbBr,,,,,,,,SnBr2,,,,0.363,0.757,4.93,4.3407,53.63,1
+Rb2SnBr4 Na+,Rb,Rb,Sn,Br,Br,Br,Br,Na+,RbBr,,,,,,,,SnBr2,,,,0.757,0.757,0.00321,4.3407,172.31,1
+Rb2SnBr4 Al3+,Rb,Rb,Sn,Br,Br,Br,Br,Al3+,RbBr,,,,,,,,SnBr2,,,,0.757,0.757,4.93,4.3407,53.63,1
+Rb2SnBr4 Ca2+,Rb,Rb,Sn,Br,Br,Br,Br,Ca2+,RbBr,,,,,,,,SnBr2,,,,0.242,0.897,4.93,5.9858,386.65,1
+Rb2SnBr4 Mg2+,Rb,Rb,Sn,Br,Br,Br,Br,Mg2+,RbBr,,,,,,,,SnBr2,,,,0.242,1.228,0.0017,5.1391,53.63,1
+Rb2SnBr4 F-,Rb,Rb,Sn,Br,Br,Br,Br,F-,RbBr,,,,,,,,SnBr2,,,,0.757,0.647,0.00321,6.1132,172.31,1
+Cs2SnBr4 Li+,Cs,Cs,Sn,Br,Br,Br,Br,Li+,CsBr,,,,,,,,SnBr2,,,,0.757,1.228,4.93,5.1391,386.65,1
+Cs2SnBr4 Zn2+,Cs,Cs,Sn,Br,Br,Br,Br,Zn2+,CsBr,,,,,,,,SnBr2,,,,0.757,1.228,4.93,5.1391,386.65,1
+Cs2SnBr4 K+,Cs,Cs,Sn,Br,Br,Br,Br,K+,CsBr,,,,,,,,SnBr2,,,,0.363,0.757,3.12,4.3407,266.05,1
+Cs2SnBr4 Na+,Cs,Cs,Sn,Br,Br,Br,Br,Na+,CsBr,,,,,,,,SnBr2,,,,3.582,3.582,3.12,5.3917,266.05,1
+Cs2SnBr4 Al3+,Cs,Cs,Sn,Br,Br,Br,Br,Al3+,CsBr,,,,,,,,SnBr2,,,,1.228,1.228,4.93,5.1391,266.05,1
+Cs2SnBr4 Ca2+,Cs,Cs,Sn,Br,Br,Br,Br,Ca2+,CsBr,,,,,,,,SnBr2,,,,0.363,1.023,0.0017,7.6462,53.63,1
+Cs2SnBr4 Mg2+,Cs,Cs,Sn,Br,Br,Br,Br,Mg2+,CsBr,,,,,,,,SnBr2,,,,0.242,1.228,0.00321,5.1391,386.65,1
+Cs2SnBr4 F-,Cs,Cs,Sn,Br,Br,Br,Br,F-,CsBr,,,,,,,,SnBr2,,,,1.228,0.757,3.12,4.3407,266.05,1
+Li2PbBr4 Li+,Li,Li,Pb,Br,Br,Br,Br,Li+,LiBr,,,,,,,,PbBr2,,,,0.363,0.757,0.00321,4.3407,172.31,1
+Li2PbBr4 Zn2+,Li,Li,Pb,Br,Br,Br,Br,Zn2+,LiBr,,,,,,,,PbBr2,,,,0.363,3.582,3.12,5.3917,53.63,1
+Li2PbBr4 K+,Li,Li,Pb,Br,Br,Br,Br,K+,LiBr,,,,,,,,PbBr2,,,,0.757,0.757,0.00321,4.3407,266.05,1
+Li2PbBr4 Na+,Li,Li,Pb,Br,Br,Br,Br,Na+,LiBr,,,,,,,,PbBr2,,,,0.363,0.757,0.00321,4.3407,172.31,1
+Li2PbBr4 Al3+,Li,Li,Pb,Br,Br,Br,Br,Al3+,LiBr,,,,,,,,PbBr2,,,,1.228,0.647,3.12,6.1132,172.31,1
+Li2PbBr4 Ca2+,Li,Li,Pb,Br,Br,Br,Br,Ca2+,LiBr,,,,,,,,PbBr2,,,,0.757,0.757,3.12,4.3407,266.05,1
+Li2PbBr4 Mg2+,Li,Li,Pb,Br,Br,Br,Br,Mg2+,LiBr,,,,,,,,PbBr2,,,,3.582,1.228,4.93,5.1391,386.65,1
+Li2PbBr4 F-,Li,Li,Pb,Br,Br,Br,Br,F-,LiBr,,,,,,,,PbBr2,,,,0.242,1.228,4.93,5.1391,386.65,1
+Na2PbBr4 Li+,Na,Na,Pb,Br,Br,Br,Br,Li+,NaBr,,,,,,,,PbBr2,,,,0.242,0.757,0.00321,4.3407,172.31,1
+Na2PbBr4 Zn2+,Na,Na,Pb,Br,Br,Br,Br,Zn2+,NaBr,,,,,,,,PbBr2,,,,0.363,1.023,0.0017,7.6462,53.63,1
+Na2PbBr4 K+,Na,Na,Pb,Br,Br,Br,Br,K+,NaBr,,,,,,,,PbBr2,,,,0.242,1.228,4.93,5.1391,386.65,1
+Na2PbBr4 Na+,Na,Na,Pb,Br,Br,Br,Br,Na+,NaBr,,,,,,,,PbBr2,,,,0.757,0.757,3.12,4.3407,266.05,1
+Na2PbBr4 Al3+,Na,Na,Pb,Br,Br,Br,Br,Al3+,NaBr,,,,,,,,PbBr2,,,,3.582,1.023,0.0017,7.6462,53.63,1
+Na2PbBr4 Ca2+,Na,Na,Pb,Br,Br,Br,Br,Ca2+,NaBr,,,,,,,,PbBr2,,,,0.242,0.824,4.93,17.4228,386.65,1
+Na2PbBr4 Mg2+,Na,Na,Pb,Br,Br,Br,Br,Mg2+,NaBr,,,,,,,,PbBr2,,,,3.582,3.582,3.12,5.3917,266.05,1
+Na2PbBr4 F-,Na,Na,Pb,Br,Br,Br,Br,F-,NaBr,,,,,,,,PbBr2,,,,3.582,1.228,3.12,5.1391,172.31,1
+K2PbBr4 Li+,K,K,Pb,Br,Br,Br,Br,Li+,KBr,,,,,,,,PbBr2,,,,0.242,0.757,0.00321,4.3407,172.31,1
+K2PbBr4 Zn2+,K,K,Pb,Br,Br,Br,Br,Zn2+,KBr,,,,,,,,PbBr2,,,,0.242,1.228,4.93,5.1391,386.65,1
+K2PbBr4 K+,K,K,Pb,Br,Br,Br,Br,K+,KBr,,,,,,,,PbBr2,,,,3.582,0.647,3.12,6.1132,266.05,1
+K2PbBr4 Na+,K,K,Pb,Br,Br,Br,Br,Na+,KBr,,,,,,,,PbBr2,,,,0.757,3.582,3.12,5.3917,266.05,1
+K2PbBr4 Al3+,K,K,Pb,Br,Br,Br,Br,Al3+,KBr,,,,,,,,PbBr2,,,,1.228,3.582,3.12,5.3917,266.05,1
+K2PbBr4 Ca2+,K,K,Pb,Br,Br,Br,Br,Ca2+,KBr,,,,,,,,PbBr2,,,,0.242,0.757,0.00321,4.3407,172.31,1
+K2PbBr4 Mg2+,K,K,Pb,Br,Br,Br,Br,Mg2+,KBr,,,,,,,,PbBr2,,,,0.757,0.757,3.12,4.3407,266.05,1
+K2PbBr4 F-,K,K,Pb,Br,Br,Br,Br,F-,KBr,,,,,,,,PbBr2,,,,0.363,0.757,3.12,4.3407,266.05,1
+Rb2PbBr4 Li+,Rb,Rb,Pb,Br,Br,Br,Br,Li+,RbBr,,,,,,,,PbBr2,,,,1.228,0.757,3.12,4.3407,266.05,1
+Rb2PbBr4 Zn2+,Rb,Rb,Pb,Br,Br,Br,Br,Zn2+,RbBr,,,,,,,,PbBr2,,,,1.228,0.757,0.00321,4.3407,172.31,1
+Rb2PbBr4 K+,Rb,Rb,Pb,Br,Br,Br,Br,K+,RbBr,,,,,,,,PbBr2,,,,0.363,0.757,3.12,4.3407,266.05,1
+Rb2PbBr4 Na+,Rb,Rb,Pb,Br,Br,Br,Br,Na+,RbBr,,,,,,,,PbBr2,,,,0.757,3.582,0.00321,5.3917,172.31,1
+Rb2PbBr4 Al3+,Rb,Rb,Pb,Br,Br,Br,Br,Al3+,RbBr,,,,,,,,PbBr2,,,,0.363,0.757,4.93,4.3407,266.05,1
+Rb2PbBr4 Ca2+,Rb,Rb,Pb,Br,Br,Br,Br,Ca2+,RbBr,,,,,,,,PbBr2,,,,1.228,0.647,3.12,6.1132,266.05,1
+Rb2PbBr4 Mg2+,Rb,Rb,Pb,Br,Br,Br,Br,Mg2+,RbBr,,,,,,,,PbBr2,,,,1.228,3.582,3.12,5.3917,266.05,1
+Rb2PbBr4 F-,Rb,Rb,Pb,Br,Br,Br,Br,F-,RbBr,,,,,,,,PbBr2,,,,0.363,0.757,3.12,4.3407,266.05,1
+Cs2PbBr4 Li+,Cs,Cs,Pb,Br,Br,Br,Br,Li+,CsBr,,,,,,,,PbBr2,,,,0.757,0.757,0.00321,4.3407,172.31,1
+Cs2PbBr4 Zn2+,Cs,Cs,Pb,Br,Br,Br,Br,Zn2+,CsBr,,,,,,,,PbBr2,,,,0.242,0.824,0.00321,17.4228,386.65,1
+Cs2PbBr4 K+,Cs,Cs,Pb,Br,Br,Br,Br,K+,CsBr,,,,,,,,PbBr2,,,,0.757,3.582,3.12,5.3917,266.05,1
+Cs2PbBr4 Na+,Cs,Cs,Pb,Br,Br,Br,Br,Na+,CsBr,,,,,,,,PbBr2,,,,0.242,0.757,3.12,4.3407,266.05,1
+Cs2PbBr4 Al3+,Cs,Cs,Pb,Br,Br,Br,Br,Al3+,CsBr,,,,,,,,PbBr2,,,,3.582,3.582,4.93,5.3917,386.65,1
+Cs2PbBr4 Ca2+,Cs,Cs,Pb,Br,Br,Br,Br,Ca2+,CsBr,,,,,,,,PbBr2,,,,1.228,0.647,0.0017,6.1132,53.63,1
+Cs2PbBr4 Mg2+,Cs,Cs,Pb,Br,Br,Br,Br,Mg2+,CsBr,,,,,,,,PbBr2,,,,3.582,1.228,0.00321,5.1391,172.31,1
+Cs2PbBr4 F-,Cs,Cs,Pb,Br,Br,Br,Br,F-,CsBr,,,,,,,,PbBr2,,,,3.582,1.228,0.00321,5.1391,172.31,1
+Li2GeI4 Li+,Li,Li,Ge,I,I,I,I,Li+,LiI,,,,,,,,GeI2,,,,0.757,3.582,0.00321,5.3917,172.31,1
+Li2GeI4 Zn2+,Li,Li,Ge,I,I,I,I,Zn2+,LiI,,,,,,,,GeI2,,,,1.228,0.757,4.93,4.3407,386.65,1
+Li2GeI4 K+,Li,Li,Ge,I,I,I,I,K+,LiI,,,,,,,,GeI2,,,,0.242,0.824,4.93,17.4228,386.65,1
+Li2GeI4 Na+,Li,Li,Ge,I,I,I,I,Na+,LiI,,,,,,,,GeI2,,,,3.582,1.228,3.12,5.1391,266.05,1
+Li2GeI4 Al3+,Li,Li,Ge,I,I,I,I,Al3+,LiI,,,,,,,,GeI2,,,,0.242,0.824,4.93,17.4228,386.65,1
+Li2GeI4 Ca2+,Li,Li,Ge,I,I,I,I,Ca2+,LiI,,,,,,,,GeI2,,,,1.228,1.023,0.0017,7.6462,53.63,1
+Li2GeI4 Mg2+,Li,Li,Ge,I,I,I,I,Mg2+,LiI,,,,,,,,GeI2,,,,1.228,0.757,4.93,4.3407,266.05,1
+Li2GeI4 F-,Li,Li,Ge,I,I,I,I,F-,LiI,,,,,,,,GeI2,,,,0.242,0.757,3.12,4.3407,266.05,1
+Na2GeI4 Li+,Na,Na,Ge,I,I,I,I,Li+,NaI,,,,,,,,GeI2,,,,0.757,0.757,4.93,4.3407,386.65,0
+Na2GeI4 Zn2+,Na,Na,Ge,I,I,I,I,Zn2+,NaI,,,,,,,,GeI2,,,,1.228,3.582,0.00321,5.3917,172.31,0
+Na2GeI4 K+,Na,Na,Ge,I,I,I,I,K+,NaI,,,,,,,,GeI2,,,,0.242,1.228,0.0017,5.1391,53.63,0
+Na2GeI4 Na+,Na,Na,Ge,I,I,I,I,Na+,NaI,,,,,,,,GeI2,,,,0.757,3.582,0.00321,5.3917,172.31,0
+Na2GeI4 Al3+,Na,Na,Ge,I,I,I,I,Al3+,NaI,,,,,,,,GeI2,,,,3.582,3.582,4.93,5.3917,386.65,0
+Na2GeI4 Ca2+,Na,Na,Ge,I,I,I,I,Ca2+,NaI,,,,,,,,GeI2,,,,0.757,3.582,0.00321,5.3917,172.31,0
+Na2GeI4 Mg2+,Na,Na,Ge,I,I,I,I,Mg2+,NaI,,,,,,,,GeI2,,,,0.757,3.582,3.12,5.3917,266.05,0
+Na2GeI4 F-,Na,Na,Ge,I,I,I,I,F-,NaI,,,,,,,,GeI2,,,,0.757,0.647,0.00321,6.1132,172.31,0
+K2GeI4 Li+,K,K,Ge,I,I,I,I,Li+,KI,,,,,,,,GeI2,,,,0.363,0.824,4.93,17.4228,386.65,0
+K2GeI4 Zn2+,K,K,Ge,I,I,I,I,Zn2+,KI,,,,,,,,GeI2,,,,1.228,0.757,3.12,4.3407,266.05,0
+K2GeI4 K+,K,K,Ge,I,I,I,I,K+,KI,,,,,,,,GeI2,,,,0.363,3.582,0.00321,5.3917,172.31,0
+K2GeI4 Na+,K,K,Ge,I,I,I,I,Na+,KI,,,,,,,,GeI2,,,,0.242,0.757,3.12,4.3407,266.05,0
+K2GeI4 Al3+,K,K,Ge,I,I,I,I,Al3+,KI,,,,,,,,GeI2,,,,0.242,3.582,0.00321,5.3917,172.31,0
+K2GeI4 Ca2+,K,K,Ge,I,I,I,I,Ca2+,KI,,,,,,,,GeI2,,,,0.363,0.757,4.93,4.3407,386.65,0
+K2GeI4 Mg2+,K,K,Ge,I,I,I,I,Mg2+,KI,,,,,,,,GeI2,,,,0.757,1.228,0.0017,5.1391,53.63,0
+K2GeI4 F-,K,K,Ge,I,I,I,I,F-,KI,,,,,,,,GeI2,,,,0.363,1.228,0.0017,5.1391,53.63,0
+Rb2GeI4 Li+,Rb,Rb,Ge,I,I,I,I,Li+,RbI,,,,,,,,GeI2,,,,1.228,0.757,0.00321,4.3407,172.31,0
+Rb2GeI4 Zn2+,Rb,Rb,Ge,I,I,I,I,Zn2+,RbI,,,,,,,,GeI2,,,,0.757,3.582,0.00321,5.3917,266.05,0
+Rb2GeI4 K+,Rb,Rb,Ge,I,I,I,I,K+,RbI,,,,,,,,GeI2,,,,0.363,0.757,4.93,4.3407,386.65,0
+Rb2GeI4 Na+,Rb,Rb,Ge,I,I,I,I,Na+,RbI,,,,,,,,GeI2,,,,0.757,0.647,0.00321,6.1132,172.31,0
+Rb2GeI4 Al3+,Rb,Rb,Ge,I,I,I,I,Al3+,RbI,,,,,,,,GeI2,,,,0.363,3.582,0.00321,5.3917,172.31,0
+Rb2GeI4 Ca2+,Rb,Rb,Ge,I,I,I,I,Ca2+,RbI,,,,,,,,GeI2,,,,1.228,0.757,4.93,4.3407,386.65,0
+Rb2GeI4 Mg2+,Rb,Rb,Ge,I,I,I,I,Mg2+,RbI,,,,,,,,GeI2,,,,0.757,0.757,4.93,4.3407,386.65,0
+Rb2GeI4 F-,Rb,Rb,Ge,I,I,I,I,F-,RbI,,,,,,,,GeI2,,,,1.228,3.582,3.12,5.3917,266.05,0
+Cs2GeI4 Li+,Cs,Cs,Ge,I,I,I,I,Li+,CsI,,,,,,,,GeI2,,,,0.242,0.824,4.93,17.4228,386.65,0
+Cs2GeI4 Zn2+,Cs,Cs,Ge,I,I,I,I,Zn2+,CsI,,,,,,,,GeI2,,,,0.757,0.757,4.93,4.3407,386.65,0
+Cs2GeI4 K+,Cs,Cs,Ge,I,I,I,I,K+,CsI,,,,,,,,GeI2,,,,0.363,3.582,4.93,5.3917,53.63,0
+Cs2GeI4 Na+,Cs,Cs,Ge,I,I,I,I,Na+,CsI,,,,,,,,GeI2,,,,0.757,3.582,3.12,5.3917,266.05,0
+Cs2GeI4 Al3+,Cs,Cs,Ge,I,I,I,I,Al3+,CsI,,,,,,,,GeI2,,,,1.228,0.757,4.93,4.3407,386.65,0
+Cs2GeI4 Ca2+,Cs,Cs,Ge,I,I,I,I,Ca2+,CsI,,,,,,,,GeI2,,,,0.242,0.757,4.93,4.3407,386.65,0
+Cs2GeI4 Mg2+,Cs,Cs,Ge,I,I,I,I,Mg2+,CsI,,,,,,,,GeI2,,,,3.582,0.757,4.93,4.3407,386.65,0
+Cs2GeI4 F-,Cs,Cs,Ge,I,I,I,I,F-,CsI,,,,,,,,GeI2,,,,0.242,0.757,4.93,4.3407,266.05,0
+Li2SnI4 Li+,Li,Li,Sn,I,I,I,I,Li+,LiI,,,,,,,,SnI2,,,,1.228,0.647,3.12,6.1132,266.05,0
+Li2SnI4 Zn2+,Li,Li,Sn,I,I,I,I,Zn2+,LiI,,,,,,,,SnI2,,,,0.363,3.582,3.12,5.3917,266.05,0
+Li2SnI4 K+,Li,Li,Sn,I,I,I,I,K+,LiI,,,,,,,,SnI2,,,,0.363,3.582,3.12,5.3917,266.05,0
+Li2SnI4 Na+,Li,Li,Sn,I,I,I,I,Na+,LiI,,,,,,,,SnI2,,,,3.582,1.228,4.93,5.1391,386.65,0
+Li2SnI4 Al3+,Li,Li,Sn,I,I,I,I,Al3+,LiI,,,,,,,,SnI2,,,,1.228,0.757,0.00321,4.3407,172.31,0
+Li2SnI4 Ca2+,Li,Li,Sn,I,I,I,I,Ca2+,LiI,,,,,,,,SnI2,,,,0.363,0.757,4.93,4.3407,386.65,0
+Li2SnI4 Mg2+,Li,Li,Sn,I,I,I,I,Mg2+,LiI,,,,,,,,SnI2,,,,3.582,3.582,4.93,5.3917,386.65,0
+Li2SnI4 F-,Li,Li,Sn,I,I,I,I,F-,LiI,,,,,,,,SnI2,,,,0.242,0.824,3.12,17.4228,266.05,0
+Na2SnI4 Li+,Na,Na,Sn,I,I,I,I,Li+,NaI,,,,,,,,SnI2,,,,3.582,3.582,3.12,5.3917,266.05,0
+Na2SnI4 Zn2+,Na,Na,Sn,I,I,I,I,Zn2+,NaI,,,,,,,,SnI2,,,,0.363,0.824,4.93,17.4228,386.65,0
+Na2SnI4 K+,Na,Na,Sn,I,I,I,I,K+,NaI,,,,,,,,SnI2,,,,0.757,0.647,3.12,6.1132,266.05,0
+Na2SnI4 Na+,Na,Na,Sn,I,I,I,I,Na+,NaI,,,,,,,,SnI2,,,,1.228,0.647,0.00321,6.1132,172.31,0
+Na2SnI4 Al3+,Na,Na,Sn,I,I,I,I,Al3+,NaI,,,,,,,,SnI2,,,,0.363,3.582,3.12,5.3917,266.05,0
+Na2SnI4 Ca2+,Na,Na,Sn,I,I,I,I,Ca2+,NaI,,,,,,,,SnI2,,,,0.757,0.757,3.12,4.3407,266.05,0
+Na2SnI4 Mg2+,Na,Na,Sn,I,I,I,I,Mg2+,NaI,,,,,,,,SnI2,,,,1.228,3.582,4.93,5.3917,386.65,0
+Na2SnI4 F-,Na,Na,Sn,I,I,I,I,F-,NaI,,,,,,,,SnI2,,,,0.242,0.824,4.93,17.4228,266.05,0
+K2SnI4 Li+,K,K,Sn,I,I,I,I,Li+,KI,,,,,,,,SnI2,,,,0.757,0.647,0.00321,6.1132,172.31,0
+K2SnI4 Zn2+,K,K,Sn,I,I,I,I,Zn2+,KI,,,,,,,,SnI2,,,,0.363,3.582,0.00321,5.3917,172.31,0
+K2SnI4 K+,K,K,Sn,I,I,I,I,K+,KI,,,,,,,,SnI2,,,,0.242,0.757,4.93,4.3407,386.65,0
+K2SnI4 Na+,K,K,Sn,I,I,I,I,Na+,KI,,,,,,,,SnI2,,,,0.242,1.023,0.0017,7.6462,53.63,0
+K2SnI4 Al3+,K,K,Sn,I,I,I,I,Al3+,KI,,,,,,,,SnI2,,,,0.242,3.582,0.00321,5.3917,172.31,0
+K2SnI4 Ca2+,K,K,Sn,I,I,I,I,Ca2+,KI,,,,,,,,SnI2,,,,3.582,0.757,3.12,4.3407,266.05,0
+K2SnI4 Mg2+,K,K,Sn,I,I,I,I,Mg2+,KI,,,,,,,,SnI2,,,,0.242,0.757,0.0017,4.3407,53.63,0
+K2SnI4 F-,K,K,Sn,I,I,I,I,F-,KI,,,,,,,,SnI2,,,,0.757,1.023,0.0017,7.6462,53.63,0
+Rb2SnI4 Li+,Rb,Rb,Sn,I,I,I,I,Li+,RbI,,,,,,,,SnI2,,,,0.363,3.582,3.12,5.3917,266.05,0
+Rb2SnI4 Zn2+,Rb,Rb,Sn,I,I,I,I,Zn2+,RbI,,,,,,,,SnI2,,,,1.228,3.582,4.93,5.3917,266.05,0
+Rb2SnI4 K+,Rb,Rb,Sn,I,I,I,I,K+,RbI,,,,,,,,SnI2,,,,1.228,3.582,0.00321,5.3917,172.31,0
+Rb2SnI4 Na+,Rb,Rb,Sn,I,I,I,I,Na+,RbI,,,,,,,,SnI2,,,,0.242,3.582,0.00321,5.3917,172.31,0
+Rb2SnI4 Al3+,Rb,Rb,Sn,I,I,I,I,Al3+,RbI,,,,,,,,SnI2,,,,0.363,0.757,0.0017,4.3407,53.63,0
+Rb2SnI4 Ca2+,Rb,Rb,Sn,I,I,I,I,Ca2+,RbI,,,,,,,,SnI2,,,,0.757,3.582,4.93,5.3917,53.63,0
+Rb2SnI4 Mg2+,Rb,Rb,Sn,I,I,I,I,Mg2+,RbI,,,,,,,,SnI2,,,,3.582,0.647,0.00321,6.1132,172.31,0
+Rb2SnI4 F-,Rb,Rb,Sn,I,I,I,I,F-,RbI,,,,,,,,SnI2,,,,0.242,0.757,4.93,4.3407,386.65,0
+Cs2SnI4 Li+,Cs,Cs,Sn,I,I,I,I,Li+,CsI,,,,,,,,SnI2,,,,0.242,3.582,0.00321,5.3917,172.31,0
+Cs2SnI4 Zn2+,Cs,Cs,Sn,I,I,I,I,Zn2+,CsI,,,,,,,,SnI2,,,,0.363,0.647,0.00321,6.1132,172.31,0
+Cs2SnI4 K+,Cs,Cs,Sn,I,I,I,I,K+,CsI,,,,,,,,SnI2,,,,3.582,0.647,3.12,6.1132,266.05,0
+Cs2SnI4 Na+,Cs,Cs,Sn,I,I,I,I,Na+,CsI,,,,,,,,SnI2,,,,1.228,0.647,0.00321,6.1132,172.31,0
+Cs2SnI4 Al3+,Cs,Cs,Sn,I,I,I,I,Al3+,CsI,,,,,,,,SnI2,,,,0.242,3.582,3.12,5.3917,266.05,0
+Cs2SnI4 Ca2+,Cs,Cs,Sn,I,I,I,I,Ca2+,CsI,,,,,,,,SnI2,,,,0.757,1.228,0.0017,5.1391,53.63,0
+Cs2SnI4 Mg2+,Cs,Cs,Sn,I,I,I,I,Mg2+,CsI,,,,,,,,SnI2,,,,3.582,0.647,4.93,6.1132,386.65,0
+Cs2SnI4 F-,Cs,Cs,Sn,I,I,I,I,F-,CsI,,,,,,,,SnI2,,,,3.582,0.757,4.93,4.3407,386.65,0
+Li2PbI4 Li+,Li,Li,Pb,I,I,I,I,Li+,LiI,,,,,,,,PbI2,,,,0.242,0.824,3.12,17.4228,266.05,0
+Li2PbI4 Zn2+,Li,Li,Pb,I,I,I,I,Zn2+,LiI,,,,,,,,PbI2,,,,0.757,0.824,4.93,17.4228,386.65,0
+Li2PbI4 K+,Li,Li,Pb,I,I,I,I,K+,LiI,,,,,,,,PbI2,,,,0.242,0.757,0.00321,4.3407,386.65,0
+Li2PbI4 Na+,Li,Li,Pb,I,I,I,I,Na+,LiI,,,,,,,,PbI2,,,,1.228,3.582,0.00321,5.3917,172.31,0
+Li2PbI4 Al3+,Li,Li,Pb,I,I,I,I,Al3+,LiI,,,,,,,,PbI2,,,,0.242,1.228,0.0017,5.1391,53.63,0
+Li2PbI4 Ca2+,Li,Li,Pb,I,I,I,I,Ca2+,LiI,,,,,,,,PbI2,,,,0.363,1.228,0.0017,5.1391,53.63,0
+Li2PbI4 Mg2+,Li,Li,Pb,I,I,I,I,Mg2+,LiI,,,,,,,,PbI2,,,,0.757,3.582,4.93,5.3917,386.65,0
+Li2PbI4 F-,Li,Li,Pb,I,I,I,I,F-,LiI,,,,,,,,PbI2,,,,3.582,3.582,0.00321,5.3917,172.31,0
+Na2PbI4 Li+,Na,Na,Pb,I,I,I,I,Li+,NaI,,,,,,,,PbI2,,,,0.363,3.582,4.93,5.3917,266.05,0
+Na2PbI4 Zn2+,Na,Na,Pb,I,I,I,I,Zn2+,NaI,,,,,,,,PbI2,,,,0.757,0.757,0.0017,4.3407,53.63,0
+Na2PbI4 K+,Na,Na,Pb,I,I,I,I,K+,NaI,,,,,,,,PbI2,,,,0.242,3.582,3.12,5.3917,266.05,0
+Na2PbI4 Na+,Na,Na,Pb,I,I,I,I,Na+,NaI,,,,,,,,PbI2,,,,3.582,0.757,3.12,4.3407,266.05,0
+Na2PbI4 Al3+,Na,Na,Pb,I,I,I,I,Al3+,NaI,,,,,,,,PbI2,,,,1.228,3.582,3.12,5.3917,172.31,0
+Na2PbI4 Ca2+,Na,Na,Pb,I,I,I,I,Ca2+,NaI,,,,,,,,PbI2,,,,0.363,0.824,4.93,17.4228,386.65,0
+Na2PbI4 Mg2+,Na,Na,Pb,I,I,I,I,Mg2+,NaI,,,,,,,,PbI2,,,,3.582,0.757,3.12,4.3407,266.05,0
+Na2PbI4 F-,Na,Na,Pb,I,I,I,I,F-,NaI,,,,,,,,PbI2,,,,3.582,0.647,3.12,6.1132,172.31,0
+K2PbI4 Li+,K,K,Pb,I,I,I,I,Li+,KI,,,,,,,,PbI2,,,,0.242,3.582,3.12,5.3917,266.05,0
+K2PbI4 Zn2+,K,K,Pb,I,I,I,I,Zn2+,KI,,,,,,,,PbI2,,,,0.242,0.647,0.00321,6.1132,172.31,0
+K2PbI4 K+,K,K,Pb,I,I,I,I,K+,KI,,,,,,,,PbI2,,,,0.363,0.647,0.00321,6.1132,172.31,0
+K2PbI4 Na+,K,K,Pb,I,I,I,I,Na+,KI,,,,,,,,PbI2,,,,1.228,3.582,4.93,5.3917,386.65,0
+K2PbI4 Al3+,K,K,Pb,I,I,I,I,Al3+,KI,,,,,,,,PbI2,,,,0.363,3.582,4.93,5.3917,386.65,0
+K2PbI4 Ca2+,K,K,Pb,I,I,I,I,Ca2+,KI,,,,,,,,PbI2,,,,1.228,1.228,0.0017,5.1391,53.63,0
+K2PbI4 Mg2+,K,K,Pb,I,I,I,I,Mg2+,KI,,,,,,,,PbI2,,,,0.242,0.757,4.93,4.3407,386.65,0
+K2PbI4 F-,K,K,Pb,I,I,I,I,F-,KI,,,,,,,,PbI2,,,,1.228,3.582,4.93,5.3917,386.65,0
+Rb2PbI4 Li+,Rb,Rb,Pb,I,I,I,I,Li+,RbI,,,,,,,,PbI2,,,,0.363,0.757,0.0017,4.3407,53.63,0
+Rb2PbI4 Zn2+,Rb,Rb,Pb,I,I,I,I,Zn2+,RbI,,,,,,,,PbI2,,,,1.228,0.647,3.12,6.1132,266.05,0
+Rb2PbI4 K+,Rb,Rb,Pb,I,I,I,I,K+,RbI,,,,,,,,PbI2,,,,0.363,0.824,3.12,17.4228,266.05,0
+Rb2PbI4 Na+,Rb,Rb,Pb,I,I,I,I,Na+,RbI,,,,,,,,PbI2,,,,3.582,0.757,3.12,4.3407,172.31,0
+Rb2PbI4 Al3+,Rb,Rb,Pb,I,I,I,I,Al3+,RbI,,,,,,,,PbI2,,,,0.363,3.582,4.93,5.3917,386.65,0
+Rb2PbI4 Ca2+,Rb,Rb,Pb,I,I,I,I,Ca2+,RbI,,,,,,,,PbI2,,,,0.757,3.582,4.93,5.3917,386.65,0
+Rb2PbI4 Mg2+,Rb,Rb,Pb,I,I,I,I,Mg2+,RbI,,,,,,,,PbI2,,,,0.242,0.824,0.00321,17.4228,172.31,0
+Rb2PbI4 F-,Rb,Rb,Pb,I,I,I,I,F-,RbI,,,,,,,,PbI2,,,,1.228,0.647,4.93,6.1132,266.05,0
+Cs2PbI4 Li+,Cs,Cs,Pb,I,I,I,I,Li+,CsI,,,,,,,,PbI2,,,,0.363,0.757,0.0017,4.3407,53.63,0
+Cs2PbI4 Zn2+,Cs,Cs,Pb,I,I,I,I,Zn2+,CsI,,,,,,,,PbI2,,,,0.757,0.824,4.93,17.4228,386.65,0
+Cs2PbI4 K+,Cs,Cs,Pb,I,I,I,I,K+,CsI,,,,,,,,PbI2,,,,3.582,0.757,4.93,4.3407,266.05,0
+Cs2PbI4 Na+,Cs,Cs,Pb,I,I,I,I,Na+,CsI,,,,,,,,PbI2,,,,1.228,1.228,0.0017,5.1391,53.63,0
+Cs2PbI4 Al3+,Cs,Cs,Pb,I,I,I,I,Al3+,CsI,,,,,,,,PbI2,,,,0.242,0.824,3.12,17.4228,266.05,0
+Cs2PbI4 Ca2+,Cs,Cs,Pb,I,I,I,I,Ca2+,CsI,,,,,,,,PbI2,,,,0.757,0.647,3.12,6.1132,266.05,0
+Cs2PbI4 Mg2+,Cs,Cs,Pb,I,I,I,I,Mg2+,CsI,,,,,,,,PbI2,,,,0.242,0.647,4.93,6.1132,386.65,0
+Cs2PbI4 F-,Cs,Cs,Pb,I,I,I,I,F-,CsI,,,,,,,,PbI2,,,,0.363,0.824,3.12,17.4228,266.05,0
+LiNaGeF4,Li,Na,Ge,F,F,F,F,Li+,LiNaF2,,,,,,,,GeF2,,,,0.757,0.647,3.12,6.1132,266.05,0
+LiNaGeF4,Li,Na,Ge,F,F,F,F,Zn2+,LiNaF2,,,,,,,,GeF2,,,,0.242,0.757,0.0017,4.3407,53.63,0
+LiNaGeF4,Li,Na,Ge,F,F,F,F,K+,LiNaF2,,,,,,,,GeF2,,,,0.757,3.582,4.93,5.3917,386.65,0
+LiNaGeF4,Li,Na,Ge,F,F,F,F,Na+,LiNaF2,,,,,,,,GeF2,,,,0.242,3.582,4.93,5.3917,266.05,0
+LiNaGeF4,Li,Na,Ge,F,F,F,F,Al3+,LiNaF2,,,,,,,,GeF2,,,,3.582,0.647,0.0017,6.1132,53.63,0
+LiNaGeF4,Li,Na,Ge,F,F,F,F,Ca2+,LiNaF2,,,,,,,,GeF2,,,,3.582,0.757,4.93,4.3407,386.65,0
+LiNaGeF4,Li,Na,Ge,F,F,F,F,Mg2+,LiNaF2,,,,,,,,GeF2,,,,0.242,0.824,0.00321,17.4228,172.31,0
+LiNaGeF4,Li,Na,Ge,F,F,F,F,F-,LiNaF2,,,,,,,,GeF2,,,,0.363,3.582,4.93,5.3917,386.65,0
+NaKGeCl4,Na,K,Ge,Cl,Cl,Cl,Cl,Li+,NaKCl2,,,,,,,,GeCl2,,,,0.757,0.647,4.93,6.1132,53.63,0
+NaKGeCl4,Na,K,Ge,Cl,Cl,Cl,Cl,Zn2+,NaKCl2,,,,,,,,GeCl2,,,,0.242,3.582,4.93,5.3917,386.65,0
+NaKGeCl4,Na,K,Ge,Cl,Cl,Cl,Cl,K+,NaKCl2,,,,,,,,GeCl2,,,,0.363,0.824,3.12,17.4228,266.05,0
+NaKGeCl4,Na,K,Ge,Cl,Cl,Cl,Cl,Na+,NaKCl2,,,,,,,,GeCl2,,,,0.363,0.824,4.93,17.4228,266.05,0
+NaKGeCl4,Na,K,Ge,Cl,Cl,Cl,Cl,Al3+,NaKCl2,,,,,,,,GeCl2,,,,0.363,0.647,0.00321,6.1132,172.31,0
+NaKGeCl4,Na,K,Ge,Cl,Cl,Cl,Cl,Ca2+,NaKCl2,,,,,,,,GeCl2,,,,1.228,0.647,0.0017,6.1132,53.63,0
+NaKGeCl4,Na,K,Ge,Cl,Cl,Cl,Cl,Mg2+,NaKCl2,,,,,,,,GeCl2,,,,0.363,0.647,3.12,6.1132,266.05,0
+NaKGeCl4,Na,K,Ge,Cl,Cl,Cl,Cl,F-,NaKCl2,,,,,,,,GeCl2,,,,3.582,0.647,4.93,6.1132,386.65,0
+KCsSnCl4,K,Cs,Sn,Cl,Cl,Cl,Cl,Li+,KCsCl2,,,,,,,,SnCl2,,,,0.757,0.757,0.0017,4.3407,53.63,0
+KCsSnCl4,K,Cs,Sn,Cl,Cl,Cl,Cl,Zn2+,KCsCl2,,,,,,,,SnCl2,,,,0.242,3.582,4.93,5.3917,386.65,0
+KCsSnCl4,K,Cs,Sn,Cl,Cl,Cl,Cl,K+,KCsCl2,,,,,,,,SnCl2,,,,3.582,0.757,0.00321,4.3407,172.31,0
+KCsSnCl4,K,Cs,Sn,Cl,Cl,Cl,Cl,Na+,KCsCl2,,,,,,,,SnCl2,,,,0.242,0.757,0.0017,4.3407,53.63,0
+KCsSnCl4,K,Cs,Sn,Cl,Cl,Cl,Cl,Al3+,KCsCl2,,,,,,,,SnCl2,,,,1.228,0.647,4.93,6.1132,386.65,0
+KCsSnCl4,K,Cs,Sn,Cl,Cl,Cl,Cl,Ca2+,KCsCl2,,,,,,,,SnCl2,,,,0.757,0.824,4.93,17.4228,386.65,0
+KCsSnCl4,K,Cs,Sn,Cl,Cl,Cl,Cl,Mg2+,KCsCl2,,,,,,,,SnCl2,,,,0.242,3.582,0.00321,5.3917,386.65,0
+KCsSnCl4,K,Cs,Sn,Cl,Cl,Cl,Cl,F-,KCsCl2,,,,,,,,SnCl2,,,,3.582,0.757,0.00321,4.3407,172.31,0
+LiKSnBr4,Li,K,Sn,Br,Br,Br,Br,Li+,LiKBr2,,,,,,,,SnBr2,,,,3.582,3.582,3.12,5.3917,172.31,0
+LiKSnBr4,Li,K,Sn,Br,Br,Br,Br,Zn2+,LiKBr2,,,,,,,,SnBr2,,,,0.242,0.647,0.00321,6.1132,172.31,0
+LiKSnBr4,Li,K,Sn,Br,Br,Br,Br,K+,LiKBr2,,,,,,,,SnBr2,,,,0.242,3.582,0.0017,5.3917,53.63,0
+LiKSnBr4,Li,K,Sn,Br,Br,Br,Br,Na+,LiKBr2,,,,,,,,SnBr2,,,,3.582,0.647,0.00321,6.1132,53.63,0
+LiKSnBr4,Li,K,Sn,Br,Br,Br,Br,Al3+,LiKBr2,,,,,,,,SnBr2,,,,0.757,0.647,3.12,6.1132,266.05,0
+LiKSnBr4,Li,K,Sn,Br,Br,Br,Br,Ca2+,LiKBr2,,,,,,,,SnBr2,,,,0.363,3.582,0.0017,5.3917,53.63,0
+LiKSnBr4,Li,K,Sn,Br,Br,Br,Br,Mg2+,LiKBr2,,,,,,,,SnBr2,,,,0.757,3.582,0.0017,5.3917,53.63,0
+LiKSnBr4,Li,K,Sn,Br,Br,Br,Br,F-,LiKBr2,,,,,,,,SnBr2,,,,0.242,3.582,4.93,5.3917,386.65,0
+KRbPbBr4,K,Rb,Pb,Br,Br,Br,Br,Li+,KRbBr2,,,,,,,,PbBr2,,,,0.757,0.824,0.00321,17.4228,266.05,0
+KRbPbBr4,K,Rb,Pb,Br,Br,Br,Br,Zn2+,KRbBr2,,,,,,,,PbBr2,,,,0.363,0.824,3.12,17.4228,266.05,0
+KRbPbBr4,K,Rb,Pb,Br,Br,Br,Br,K+,KRbBr2,,,,,,,,PbBr2,,,,0.757,0.824,3.12,17.4228,266.05,0
+KRbPbBr4,K,Rb,Pb,Br,Br,Br,Br,Na+,KRbBr2,,,,,,,,PbBr2,,,,0.757,0.757,0.0017,4.3407,53.63,0
+KRbPbBr4,K,Rb,Pb,Br,Br,Br,Br,Al3+,KRbBr2,,,,,,,,PbBr2,,,,0.242,0.647,0.00321,6.1132,172.31,0
+KRbPbBr4,K,Rb,Pb,Br,Br,Br,Br,Ca2+,KRbBr2,,,,,,,,PbBr2,,,,0.242,3.582,4.93,5.3917,386.65,0
+KRbPbBr4,K,Rb,Pb,Br,Br,Br,Br,Mg2+,KRbBr2,,,,,,,,PbBr2,,,,0.363,0.824,0.00321,17.4228,172.31,0
+KRbPbBr4,K,Rb,Pb,Br,Br,Br,Br,F-,KRbBr2,,,,,,,,PbBr2,,,,1.228,0.647,0.0017,6.1132,53.63,0
+RbCsPbI4,Rb,Cs,Pb,I,I,I,I,Li+,RbCsI2,,,,,,,,PbI2,,,,0.757,0.824,3.12,17.4228,266.05,0
+RbCsPbI4,Rb,Cs,Pb,I,I,I,I,Zn2+,RbCsI2,,,,,,,,PbI2,,,,0.757,0.647,0.00321,6.1132,266.05,0
+RbCsPbI4,Rb,Cs,Pb,I,I,I,I,K+,RbCsI2,,,,,,,,PbI2,,,,1.228,1.228,0.0017,5.1391,53.63,0
+RbCsPbI4,Rb,Cs,Pb,I,I,I,I,Na+,RbCsI2,,,,,,,,PbI2,,,,0.363,0.647,3.12,6.1132,266.05,0
+RbCsPbI4,Rb,Cs,Pb,I,I,I,I,Al3+,RbCsI2,,,,,,,,PbI2,,,,0.242,0.824,0.00321,17.4228,172.31,0
+RbCsPbI4,Rb,Cs,Pb,I,I,I,I,Ca2+,RbCsI2,,,,,,,,PbI2,,,,1.228,0.647,4.93,6.1132,386.65,0
+RbCsPbI4,Rb,Cs,Pb,I,I,I,I,Mg2+,RbCsI2,,,,,,,,PbI2,,,,1.228,0.824,4.93,17.4228,386.65,0
+RbCsPbI4,Rb,Cs,Pb,I,I,I,I,F-,RbCsI2,,,,,,,,PbI2,,,,3.582,0.647,0.0017,6.1132,53.63,0
+Li2GeF3Cl,Li,Li,Ge,F,F,F,Cl,Li+,LiF,,,,,,,,GeFCl,,,,3.582,3.582,4.93,5.3917,266.05,0
+Li2GeF3Cl,Li,Li,Ge,F,F,F,Cl,Zn2+,LiF,,,,,,,,GeFCl,,,,0.363,0.647,3.12,6.1132,266.05,0
+Li2GeF3Cl,Li,Li,Ge,F,F,F,Cl,K+,LiF,,,,,,,,GeFCl,,,,0.242,0.824,0.00321,17.4228,172.31,0
+Li2GeF3Cl,Li,Li,Ge,F,F,F,Cl,Na+,LiF,,,,,,,,GeFCl,,,,3.582,0.647,0.0017,6.1132,53.63,0
+Li2GeF3Cl,Li,Li,Ge,F,F,F,Cl,Al3+,LiF,,,,,,,,GeFCl,,,,0.757,0.824,0.00321,17.4228,172.31,0
+Li2GeF3Cl,Li,Li,Ge,F,F,F,Cl,Ca2+,LiF,,,,,,,,GeFCl,,,,0.363,0.824,0.00321,17.4228,172.31,0
+Li2GeF3Cl,Li,Li,Ge,F,F,F,Cl,Mg2+,LiF,,,,,,,,GeFCl,,,,0.757,0.824,3.12,17.4228,266.05,0
+Li2GeF3Cl,Li,Li,Ge,F,F,F,Cl,F-,LiF,,,,,,,,GeFCl,,,,3.582,0.647,4.93,6.1132,386.65,0
+Na2GeF3Cl,Na,Na,Ge,F,F,F,Cl,Li+,NaF,,,,,,,,GeFCl,,,,0.242,0.647,0.00321,6.1132,172.31,0
+Na2GeF3Cl,Na,Na,Ge,F,F,F,Cl,Zn2+,NaF,,,,,,,,GeFCl,,,,0.363,0.647,4.93,6.1132,266.05,0
+Na2GeF3Cl,Na,Na,Ge,F,F,F,Cl,K+,NaF,,,,,,,,GeFCl,,,,1.228,1.228,0.0017,5.1391,53.63,0
+Na2GeF3Cl,Na,Na,Ge,F,F,F,Cl,Na+,NaF,,,,,,,,GeFCl,,,,1.228,0.757,0.0017,4.3407,53.63,0
+Na2GeF3Cl,Na,Na,Ge,F,F,F,Cl,Al3+,NaF,,,,,,,,GeFCl,,,,1.228,0.757,0.0017,4.3407,53.63,0
+Na2GeF3Cl,Na,Na,Ge,F,F,F,Cl,Ca2+,NaF,,,,,,,,GeFCl,,,,0.242,0.647,3.12,6.1132,266.05,0
+Na2GeF3Cl,Na,Na,Ge,F,F,F,Cl,Mg2+,NaF,,,,,,,,GeFCl,,,,0.757,0.647,4.93,6.1132,386.65,0
+Na2GeF3Cl,Na,Na,Ge,F,F,F,Cl,F-,NaF,,,,,,,,GeFCl,,,,0.242,0.647,0.0017,6.1132,53.63,0
+Li2SnCl3Br,Li,Li,Sn,Cl,Cl,Cl,Br,Li+,LiCl,,,,,,,,SnClBr,,,,0.757,3.582,0.0017,5.3917,53.63,0
+Li2SnCl3Br,Li,Li,Sn,Cl,Cl,Cl,Br,Zn2+,LiCl,,,,,,,,SnClBr,,,,1.228,3.582,0.0017,5.3917,53.63,0
+Li2SnCl3Br,Li,Li,Sn,Cl,Cl,Cl,Br,K+,LiCl,,,,,,,,SnClBr,,,,0.363,0.647,0.0017,6.1132,53.63,0
+Li2SnCl3Br,Li,Li,Sn,Cl,Cl,Cl,Br,Na+,LiCl,,,,,,,,SnClBr,,,,1.228,0.757,0.0017,4.3407,53.63,0
+Li2SnCl3Br,Li,Li,Sn,Cl,Cl,Cl,Br,Al3+,LiCl,,,,,,,,SnClBr,,,,1.228,0.824,4.93,17.4228,386.65,0
+Li2SnCl3Br,Li,Li,Sn,Cl,Cl,Cl,Br,Ca2+,LiCl,,,,,,,,SnClBr,,,,0.757,0.824,4.93,17.4228,53.63,0
+Li2SnCl3Br,Li,Li,Sn,Cl,Cl,Cl,Br,Mg2+,LiCl,,,,,,,,SnClBr,,,,0.363,0.647,4.93,6.1132,53.63,0
+Li2SnCl3Br,Li,Li,Sn,Cl,Cl,Cl,Br,F-,LiCl,,,,,,,,SnClBr,,,,1.228,0.824,4.93,17.4228,386.65,0
+Na2SnCl3Br,Na,Na,Sn,Cl,Cl,Cl,Br,Li+,NaCl,,,,,,,,SnClBr,,,,3.582,1.228,0.00321,5.1391,53.63,0
+Na2SnCl3Br,Na,Na,Sn,Cl,Cl,Cl,Br,Zn2+,NaCl,,,,,,,,SnClBr,,,,0.363,0.647,3.12,6.1132,266.05,0
+Na2SnCl3Br,Na,Na,Sn,Cl,Cl,Cl,Br,K+,NaCl,,,,,,,,SnClBr,,,,0.242,0.647,0.0017,6.1132,53.63,0
+Na2SnCl3Br,Na,Na,Sn,Cl,Cl,Cl,Br,Na+,NaCl,,,,,,,,SnClBr,,,,0.363,0.824,0.00321,17.4228,172.31,0
+Na2SnCl3Br,Na,Na,Sn,Cl,Cl,Cl,Br,Al3+,NaCl,,,,,,,,SnClBr,,,,1.228,0.647,0.0017,6.1132,53.63,0
+Na2SnCl3Br,Na,Na,Sn,Cl,Cl,Cl,Br,Ca2+,NaCl,,,,,,,,SnClBr,,,,0.363,3.582,0.0017,5.3917,53.63,0
+Na2SnCl3Br,Na,Na,Sn,Cl,Cl,Cl,Br,Mg2+,NaCl,,,,,,,,SnClBr,,,,3.582,1.228,0.0017,5.1391,53.63,0
+Na2SnCl3Br,Na,Na,Sn,Cl,Cl,Cl,Br,F-,NaCl,,,,,,,,SnClBr,,,,1.228,0.647,4.93,6.1132,386.65,0
+Li2PbBr3I,Li,Li,Pb,Br,Br,Br,I,Li+,LiBr,,,,,,,,PbBrI,,,,0.242,3.582,0.0017,5.3917,53.63,0
+Li2PbBr3I,Li,Li,Pb,Br,Br,Br,I,Zn2+,LiBr,,,,,,,,PbBrI,,,,0.757,0.647,0.0017,6.1132,53.63,0
+Li2PbBr3I,Li,Li,Pb,Br,Br,Br,I,K+,LiBr,,,,,,,,PbBrI,,,,0.757,0.824,0.00321,17.4228,172.31,0
+Li2PbBr3I,Li,Li,Pb,Br,Br,Br,I,Na+,LiBr,,,,,,,,PbBrI,,,,0.363,0.647,4.93,6.1132,386.65,0
+Li2PbBr3I,Li,Li,Pb,Br,Br,Br,I,Al3+,LiBr,,,,,,,,PbBrI,,,,0.757,0.647,0.0017,6.1132,53.63,0
+Li2PbBr3I,Li,Li,Pb,Br,Br,Br,I,Ca2+,LiBr,,,,,,,,PbBrI,,,,0.242,0.647,3.12,6.1132,266.05,0
+Li2PbBr3I,Li,Li,Pb,Br,Br,Br,I,Mg2+,LiBr,,,,,,,,PbBrI,,,,0.757,3.582,0.0017,5.3917,53.63,0
+Li2PbBr3I,Li,Li,Pb,Br,Br,Br,I,F-,LiBr,,,,,,,,PbBrI,,,,0.757,0.824,0.00321,17.4228,172.31,0
+Na2PbBr3I,Na,Na,Pb,Br,Br,Br,I,Li+,NaBr,,,,,,,,PbBrI,,,,3.582,0.757,0.00321,4.3407,53.63,0
+Na2PbBr3I,Na,Na,Pb,Br,Br,Br,I,Zn2+,NaBr,,,,,,,,PbBrI,,,,0.757,0.647,4.93,6.1132,386.65,0
+Na2PbBr3I,Na,Na,Pb,Br,Br,Br,I,K+,NaBr,,,,,,,,PbBrI,,,,0.757,0.824,0.00321,17.4228,53.63,0
+Na2PbBr3I,Na,Na,Pb,Br,Br,Br,I,Na+,NaBr,,,,,,,,PbBrI,,,,1.228,3.582,0.0017,5.3917,53.63,0
+Na2PbBr3I,Na,Na,Pb,Br,Br,Br,I,Al3+,NaBr,,,,,,,,PbBrI,,,,0.363,0.647,0.0017,6.1132,53.63,0
+Na2PbBr3I,Na,Na,Pb,Br,Br,Br,I,Ca2+,NaBr,,,,,,,,PbBrI,,,,0.757,0.647,0.0017,6.1132,53.63,0
+Na2PbBr3I,Na,Na,Pb,Br,Br,Br,I,Mg2+,NaBr,,,,,,,,PbBrI,,,,0.242,3.582,0.0017,5.3917,53.63,0
+Na2PbBr3I,Na,Na,Pb,Br,Br,Br,I,F-,NaBr,,,,,,,,PbBrI,,,,1.228,0.824,3.12,17.4228,266.05,0
+K2GeF2Cl2,K,K,Ge,F,F,Cl,Cl,Li+,KF,,,,,,,,GeCl2,,,,3.582,1.228,0.0017,5.1391,53.63,0
+K2GeF2Cl2,K,K,Ge,F,F,Cl,Cl,Zn2+,KF,,,,,,,,GeCl2,,,,0.242,0.647,0.0017,6.1132,53.63,0
+K2GeF2Cl2,K,K,Ge,F,F,Cl,Cl,K+,KF,,,,,,,,GeCl2,,,,3.582,1.228,0.0017,5.1391,53.63,0
+K2GeF2Cl2,K,K,Ge,F,F,Cl,Cl,Na+,KF,,,,,,,,GeCl2,,,,0.363,0.647,0.0017,6.1132,53.63,0
+K2GeF2Cl2,K,K,Ge,F,F,Cl,Cl,Al3+,KF,,,,,,,,GeCl2,,,,0.363,0.647,4.93,6.1132,386.65,0
+K2GeF2Cl2,K,K,Ge,F,F,Cl,Cl,Ca2+,KF,,,,,,,,GeCl2,,,,0.757,0.647,4.93,6.1132,386.65,0
+K2GeF2Cl2,K,K,Ge,F,F,Cl,Cl,Mg2+,KF,,,,,,,,GeCl2,,,,1.228,3.582,0.0017,5.3917,53.63,0
+K2GeF2Cl2,K,K,Ge,F,F,Cl,Cl,F-,KF,,,,,,,,GeCl2,,,,1.228,0.824,4.93,17.4228,266.05,0
+Rb2GeF3Br,Rb,Rb,Ge,F,F,F,Br,Li+,RbF,,,,,,,,GeFBr,,,,0.242,0.647,4.93,6.1132,266.05,0
+Rb2GeF3Br,Rb,Rb,Ge,F,F,F,Br,Zn2+,RbF,,,,,,,,GeFBr,,,,0.242,0.647,3.12,6.1132,266.05,0
+Rb2GeF3Br,Rb,Rb,Ge,F,F,F,Br,K+,RbF,,,,,,,,GeFBr,,,,0.363,3.582,0.0017,5.3917,53.63,0
+Rb2GeF3Br,Rb,Rb,Ge,F,F,F,Br,Na+,RbF,,,,,,,,GeFBr,,,,3.582,0.824,4.93,17.4228,386.65,0
+Rb2GeF3Br,Rb,Rb,Ge,F,F,F,Br,Al3+,RbF,,,,,,,,GeFBr,,,,1.228,0.757,0.0017,4.3407,53.63,0
+Rb2GeF3Br,Rb,Rb,Ge,F,F,F,Br,Ca2+,RbF,,,,,,,,GeFBr,,,,3.582,3.582,0.0017,5.3917,53.63,0
+Rb2GeF3Br,Rb,Rb,Ge,F,F,F,Br,Mg2+,RbF,,,,,,,,GeFBr,,,,0.363,0.824,4.93,17.4228,53.63,0
+Rb2GeF3Br,Rb,Rb,Ge,F,F,F,Br,F-,RbF,,,,,,,,GeFBr,,,,1.228,0.824,3.12,17.4228,266.05,0
+K2SnBr2ICl,K,K,Sn,Br,Br,I,Cl,Li+,KBr,,,,,,,,SnICl,,,,1.228,0.824,3.12,17.4228,266.05,0
+K2SnBr2ICl,K,K,Sn,Br,Br,I,Cl,Zn2+,KBr,,,,,,,,SnICl,,,,0.363,0.647,4.93,6.1132,386.65,0
+K2SnBr2ICl,K,K,Sn,Br,Br,I,Cl,K+,KBr,,,,,,,,SnICl,,,,1.228,0.824,0.00321,17.4228,53.63,0
+K2SnBr2ICl,K,K,Sn,Br,Br,I,Cl,Na+,KBr,,,,,,,,SnICl,,,,0.242,0.824,0.0017,17.4228,53.63,0
+K2SnBr2ICl,K,K,Sn,Br,Br,I,Cl,Al3+,KBr,,,,,,,,SnICl,,,,0.363,0.824,3.12,17.4228,53.63,0
+K2SnBr2ICl,K,K,Sn,Br,Br,I,Cl,Ca2+,KBr,,,,,,,,SnICl,,,,0.242,0.647,4.93,6.1132,386.65,0
+K2SnBr2ICl,K,K,Sn,Br,Br,I,Cl,Mg2+,KBr,,,,,,,,SnICl,,,,1.228,0.824,0.00321,17.4228,172.31,0
+K2SnBr2ICl,K,K,Sn,Br,Br,I,Cl,F-,KBr,,,,,,,,SnICl,,,,1.228,3.582,0.0017,5.3917,53.63,0
+Cs2PbI3Cl,Cs,Cs,Pb,I,I,I,Cl,Li+,CsI,,,,,,,,PbICl,,,,3.582,0.757,0.0017,4.3407,53.63,0
+Cs2PbI3Cl,Cs,Cs,Pb,I,I,I,Cl,Zn2+,CsI,,,,,,,,PbICl,,,,0.242,0.647,4.93,6.1132,386.65,0
+Cs2PbI3Cl,Cs,Cs,Pb,I,I,I,Cl,K+,CsI,,,,,,,,PbICl,,,,0.757,0.824,0.00321,17.4228,172.31,0
+Cs2PbI3Cl,Cs,Cs,Pb,I,I,I,Cl,Na+,CsI,,,,,,,,PbICl,,,,3.582,0.757,0.0017,4.3407,53.63,0
+Cs2PbI3Cl,Cs,Cs,Pb,I,I,I,Cl,Al3+,CsI,,,,,,,,PbICl,,,,0.757,0.824,3.12,17.4228,266.05,0
+Cs2PbI3Cl,Cs,Cs,Pb,I,I,I,Cl,Ca2+,CsI,,,,,,,,PbICl,,,,0.242,0.647,0.00321,6.1132,386.65,0
+Cs2PbI3Cl,Cs,Cs,Pb,I,I,I,Cl,Mg2+,CsI,,,,,,,,PbICl,,,,1.228,0.824,3.12,17.4228,172.31,0
+Cs2PbI3Cl,Cs,Cs,Pb,I,I,I,Cl,F-,CsI,,,,,,,,PbICl,,,,3.582,3.582,0.0017,5.3917,53.63,0
+K2PbFClBrI,K,K,Pb,F,Cl,Br,I,Li+,K2FCl,,,,,,,,PbBrI,,,,3.582,0.757,0.0017,4.3407,53.63,0
+K2PbFClBrI,K,K,Pb,F,Cl,Br,I,Zn2+,K2FCl,,,,,,,,PbBrI,,,,3.582,0.824,4.93,17.4228,386.65,0
+K2PbFClBrI,K,K,Pb,F,Cl,Br,I,K+,K2FCl,,,,,,,,PbBrI,,,,0.242,0.647,4.93,6.1132,386.65,0
+K2PbFClBrI,K,K,Pb,F,Cl,Br,I,Na+,K2FCl,,,,,,,,PbBrI,,,,3.582,0.824,0.00321,17.4228,172.31,0
+K2PbFClBrI,K,K,Pb,F,Cl,Br,I,Al3+,K2FCl,,,,,,,,PbBrI,,,,3.582,0.824,0.00321,17.4228,172.31,0
+K2PbFClBrI,K,K,Pb,F,Cl,Br,I,Ca2+,K2FCl,,,,,,,,PbBrI,,,,3.582,0.824,4.93,17.4228,386.65,0
+K2PbFClBrI,K,K,Pb,F,Cl,Br,I,Mg2+,K2FCl,,,,,,,,PbBrI,,,,1.228,0.824,0.00321,17.4228,172.31,0
+K2PbFClBrI,K,K,Pb,F,Cl,Br,I,F-,K2FCl,,,,,,,,PbBrI,,,,0.242,0.824,0.0017,17.4228,53.63,0
+Cs2SnBr2I2,Cs,Cs,Sn,Br,Br,I,I,Li+,CsBr,,,,,,,,SnI2,,,,3.582,3.582,0.0017,5.3917,53.63,0
+Cs2SnBr2I2,Cs,Cs,Sn,Br,Br,I,I,Zn2+,CsBr,,,,,,,,SnI2,,,,1.228,0.824,0.00321,17.4228,172.31,0
+Cs2SnBr2I2,Cs,Cs,Sn,Br,Br,I,I,K+,CsBr,,,,,,,,SnI2,,,,0.363,0.824,0.0017,17.4228,53.63,0
+Cs2SnBr2I2,Cs,Cs,Sn,Br,Br,I,I,Na+,CsBr,,,,,,,,SnI2,,,,3.582,3.582,0.00321,5.3917,53.63,0
+Cs2SnBr2I2,Cs,Cs,Sn,Br,Br,I,I,Al3+,CsBr,,,,,,,,SnI2,,,,3.582,0.824,4.93,17.4228,266.05,0
+Cs2SnBr2I2,Cs,Cs,Sn,Br,Br,I,I,Ca2+,CsBr,,,,,,,,SnI2,,,,0.242,0.824,0.0017,17.4228,53.63,0
+Cs2SnBr2I2,Cs,Cs,Sn,Br,Br,I,I,Mg2+,CsBr,,,,,,,,SnI2,,,,0.363,0.824,0.0017,17.4228,53.63,0
+Cs2SnBr2I2,Cs,Cs,Sn,Br,Br,I,I,F-,CsBr,,,,,,,,SnI2,,,,3.582,0.824,3.12,17.4228,266.05,0
+Rb2PbF3I,Rb,Rb,Pb,F,F,F,I,Li+,RbF,,,,,,,,PbFI,,,,0.757,0.824,0.0017,17.4228,53.63,0
+Rb2PbF3I,Rb,Rb,Pb,F,F,F,I,Zn2+,RbF,,,,,,,,PbFI,,,,3.582,0.824,3.12,17.4228,266.05,0
+Rb2PbF3I,Rb,Rb,Pb,F,F,F,I,K+,RbF,,,,,,,,PbFI,,,,0.757,0.824,0.0017,17.4228,53.63,0
+Rb2PbF3I,Rb,Rb,Pb,F,F,F,I,Na+,RbF,,,,,,,,PbFI,,,,3.582,0.824,3.12,17.4228,266.05,0
+Rb2PbF3I,Rb,Rb,Pb,F,F,F,I,Al3+,RbF,,,,,,,,PbFI,,,,0.363,0.824,0.0017,17.4228,53.63,0
+Rb2PbF3I,Rb,Rb,Pb,F,F,F,I,Ca2+,RbF,,,,,,,,PbFI,,,,3.582,0.824,3.12,17.4228,172.31,0
+Rb2PbF3I,Rb,Rb,Pb,F,F,F,I,Mg2+,RbF,,,,,,,,PbFI,,,,0.757,0.824,0.0017,17.4228,53.63,0
+Rb2PbF3I,Rb,Rb,Pb,F,F,F,I,F-,RbF,,,,,,,,PbFI,,,,3.582,0.824,0.00321,17.4228,172.31,0
+Rb2SnCl2I2,Rb,Rb,Sn,Cl,Cl,I,I,Li+,RbI,,,,,,,,SnI2,,,,1.228,0.824,0.0017,17.4228,53.63,0
+Rb2SnCl2I2,Rb,Rb,Sn,Cl,Cl,I,I,Zn2+,RbI,,,,,,,,SnI2,,,,3.582,0.824,0.0017,17.4228,53.63,0
+Rb2SnCl2I2,Rb,Rb,Sn,Cl,Cl,I,I,K+,RbI,,,,,,,,SnI2,,,,1.228,0.824,0.0017,17.4228,53.63,0
+Rb2SnCl2I2,Rb,Rb,Sn,Cl,Cl,I,I,Na+,RbI,,,,,,,,SnI2,,,,1.228,0.824,0.0017,17.4228,53.63,0
+Rb2SnCl2I2,Rb,Rb,Sn,Cl,Cl,I,I,Al3+,RbI,,,,,,,,SnI2,,,,1.228,0.824,0.0017,17.4228,53.63,0
+Rb2SnCl2I2,Rb,Rb,Sn,Cl,Cl,I,I,Ca2+,RbI,,,,,,,,SnI2,,,,3.582,0.824,0.0017,17.4228,53.63,0
+Rb2SnCl2I2,Rb,Rb,Sn,Cl,Cl,I,I,Mg2+,RbI,,,,,,,,SnI2,,,,3.582,0.824,0.00321,17.4228,53.63,0
+Rb2SnCl2I2,Rb,Rb,Sn,Cl,Cl,I,I,F-,RbI,,,,,,,,SnI2,,,,3.582,0.824,0.0017,17.4228,53.63,0
