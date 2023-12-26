@@ -1,0 +1,18 @@
+Whether the feature is selected:
+False False True False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False True False False False False False False False False False False False True False False False False False False False False False False False False False False False False False True False False False False False True False False False False False True False False False True False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False True False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False True False False False False False False False True False False False False False False False True False False False False False False False True False False False False False False False False False False False False False False False True 
+Acquired data feature size:
+(640,13)
+S_rfe(Final feature)£º
+gap_AO
+MagpieData mean Number
+MagpieData mean AtomicWeight
+MagpieData mean Row
+MagpieData mean CovalentRadius
+MagpieData mean Electronegativity
+MagpieData avg_dev Electronegativity
+MagpieData mean GSvolume_pa
+Ion Specific Heat
+Ion Density
+Ion AtomicRadius
+Ion Firstlonization
+Ion Melting Point
