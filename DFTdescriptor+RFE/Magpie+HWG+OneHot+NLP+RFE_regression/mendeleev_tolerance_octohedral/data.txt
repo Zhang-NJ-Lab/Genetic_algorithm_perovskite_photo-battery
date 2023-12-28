@@ -1,0 +1,18 @@
+Whether the feature is selected:
+False True True True False False False False False False False False False False False False False False False False True False False False False False False False False False False False False False False False True False False False False False False False True False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False True False False False False False False False False False False False False False False False False False True False False False False False True False False False False False True False False False True False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False True False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False True False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False False 
+Acquired data feature size:
+(640,13)
+S_rfe(Final feature)£º
+Tolerance Factor
+HOMO_energy
+LUMO_energy
+stable_ion
+solar_ion
+photo_ion
+MagpieData mean AtomicWeight
+MagpieData mean Row
+MagpieData mean CovalentRadius
+MagpieData mean Electronegativity
+MagpieData avg_dev Electronegativity
+MagpieData mean GSvolume_pa
+F

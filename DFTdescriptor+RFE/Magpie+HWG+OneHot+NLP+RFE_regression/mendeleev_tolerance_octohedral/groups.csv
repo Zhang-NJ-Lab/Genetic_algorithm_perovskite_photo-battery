@@ -1,0 +1,19 @@
+,group_id,symbol,name
+0,1,IA,Alkali metals
+1,2,IIA,Alkaline earths
+2,3,IIIB,
+3,4,IVB,
+4,5,VB,
+5,6,VIB,
+6,7,VIIB,
+7,8,VIIIB,
+8,9,VIIIB,
+9,10,VIIIB,
+10,11,IB,Coinage metals
+11,12,IIB,
+12,13,IIIA,Boron group
+13,14,IVA,Carbon group
+14,15,VA,Pnictogens
+15,16,VIA,Chalcogens
+16,17,VIIA,Halogens
+17,18,VIIIA,Noble gases
