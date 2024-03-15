@@ -50,3 +50,4 @@ DFTdescriptor+RFE/matminer+RFE_classification/NLPdescriptor_million/Prediction/m
 DFTdescriptor+RFE/Magpie+HWG+OneHot+NLP+RFE_regression/mendeleev_tolerance_octohedral/miilion/million.txt
 DFTdescriptor+RFE/Magpie+HWG+OneHot+NLP+RFE_regression/million.txt
 *.cfg
+DFTdescriptor+RFE/matminer+RFE_classification/NLPdescriptor_million/re-run/million.txt
